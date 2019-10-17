@@ -1,0 +1,12 @@
+# OS or Editor folders
+.DS_Store
+
+# Tools
+node_modules
+package-lock.json
+Gemfile.lock
+
+# Jekyllg
+_site
+.sass-cache
+.jekyll-metadata

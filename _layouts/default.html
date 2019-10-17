@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+    {% include head.html %}
+
+    <body>
+
+    {% if page.hero %}
+        {% include hero.html %}
+    {% else %}
+        {% include navbar.html %}
+    {% endif %}
+
+    {{ content }}
+
+    {% include offcanvas.html %}
+
+    <!-- {% include footer.html %} -->
+
+    </body>
+
+</html>
