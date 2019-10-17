@@ -1,36 +1,62 @@
-- title: Getting Started
-  docs:
-  - installation
-  - setup
-  - navigation
-  - footer
-  - posts
-  - docs
-  - comments
-  - analytics
 
-- title: Theme Features
-  docs:
-  - hero
-  - boxes
-  - featured
-  - videos
-  - faq
-  - team
-  - cta
-  - changelog
-  - contact
-  - media
-  - toc
-  - alerts
+- title: Transport mode 
+  tag: mode
+  tools: 
+  - title: Walking
+    tag: walking
+  - title: Cycling
+    tag: cycling
+  - title: Public Transport
+    tag: public
+  - title: Motorized Transport
+    tag: motorized
+  - title: Multi-modal
+    tag: multi
 
-- title: Customization
-  docs:
-  - translation
-  - customize
-  - development
-  - sources
+- title: Geographical scale
+  tag: scale
+  tools: 
+  - title: Street
+    tag: street
+  - title: Neighborhood
+    tag: neighborhood
+  - title: Municipal
+    tag: municipal
+  - title: Regional 
+    tag: regional
 
-- title: Help
-  docs:
-  - support
+- title: Terms of use 
+  tag: terms
+  tools: 
+  - title: Open source
+    tag: open-source
+  - title: Open access
+    tag: open-access
+  - title: Proprietary
+    tag: proprietary
+  - title: Consultancy service
+    tag: consultancy
+
+- title: Tool type 
+  tag: type
+  tools: 
+  - title: Web Tool
+    tag: web
+  - title: Standalone Software
+    tag: software
+  - title: Software extension
+    tag: extension
+  - title: Guideline
+    tag: guideline
+
+- title: Target group 
+  tag: target
+  tools: 
+  - title: Planners
+    tag: planners
+  - title: Decision makers
+    tag: decision-makers
+  - title: Real-estate developers
+    tag: real-estate
+  - title: Public 
+    tag: public

@@ -1,11 +1,11 @@
 ---
-title: Lorem ipsum 1
+title: Lorem ipsum 6
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: walking
 scale: street
-terms: open-source
+terms: proprietary
 type: web
-target: planners
+target: public
 ---
 
 Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
