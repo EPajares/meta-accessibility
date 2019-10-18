@@ -18,3 +18,5 @@ en:
   contact_subject:            "Subject"
   contact_message:            "Message"
   contact_send:               "Send"
+  more:                       "More"
+  less:                       "Less"

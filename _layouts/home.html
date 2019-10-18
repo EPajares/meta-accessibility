@@ -6,19 +6,19 @@ layout: default
     <div class="uk-container{% if page.width %} uk-container-{{page.width}}{% endif %}" data-uk-filter="target: .filter-tool">
         <div data-uk-grid>
             <div class="uk-width-1-4@m uk-flex-last@m">
-                    <div class="sidebar-tools uk-visible@m" uk-sticky="offset: 100; bottom: true">
+                <div class="sidebar-tools uk-visible@m" uk-sticky="offset: 100; bottom: true">
+                    <ul class="uk-nav uk-nav-default">
+                        <li class="uk-active-" uk-filter-control><a href="#">All / Reset Filter</a></li>
+                    </ul>
+                    {% for section in site.data.navigation_tools %}
+                        <h5>{{ section.title }}</h5>
                         <ul class="uk-nav uk-nav-default">
-                            <li class="uk-active-" uk-filter-control><a href="#">All / Reset Filter</a></li>
+                            {% for tool in section.tools %}
+                                <li data-uk-filter-control="filter: [data-{{ section.tag | slugify }}='{{ tool.tag | slugify }}']; group: {{ section.tag | slugify }}"><a href="#">{{ tool.title }}</a></li>
+                            {% endfor %}
                         </ul>
-                        {% for section in site.data.navigation_tools %}
-                            <h5>{{ section.title }}</h5>
-                            <ul class="uk-nav uk-nav-default">
-                                {% for tool in section.tools %}
-                                    <li data-uk-filter-control="filter: [data-{{ section.tag | slugify }}='{{ tool.tag | slugify }}']; group: {{ section.tag | slugify }}"><a href="#">{{ tool.title }}</a></li>
-                                {% endfor %}
-                            </ul>
-                        {% endfor %}
-                    </div>
+                    {% endfor %}
+                </div>
             </div>
             <div class="uk-width-expand@m">
                 <div class="filter-tool uk-child-width-1-2@s uk-child-width-1-3@m" data-uk-grid>
@@ -32,10 +32,23 @@ layout: default
                                 <div class="uk-card-header">
                                     <h3 class="uk-card-title">{{ tool.title }}</h3>
                                 </div>
-                                <div class="uk-card-body">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                                <div class="uk-card-body uk-text-small">
+                                    <div class="tool-content-{{ forloop.index }}">
+                                        {% assign card_excerpt = 33 %}
+                                        {{ tool.content | truncatewords: card_excerpt }}
+                                        {% assign content_count = tool.content | number_of_words %}
+                                        {% if content_count > card_excerpt %}
+                                            <p class="uk-margin-remove"><button class="uk-button uk-button-link" uk-toggle="target: .tool-content-{{ forloop.index }}">{{ site.data.translation[site.lang].more | default: "More" }}</button></p>
+                                        {% endif %}
+                                    </div>
+                                    {% if content_count > card_excerpt %}
+                                        <div class="tool-content-{{ forloop.index }}" hidden>
+                                            {{ tool.content }}
+                                            <p class="uk-margin-remove"><button class="uk-button uk-button-link" uk-toggle="target: .tool-content-{{ forloop.index }}">{{ site.data.translation[site.lang].less | default: "Less" }}</button></p>
+                                        </div>   
+                                    {% endif %}                                 
                                 </div>
-                                <div class="uk-card-footer">Lorem</div>
+                                <div id="xxx" class="uk-card-footer">Lorem</div>
                             </div>
                         </div>
                     {% endfor %}

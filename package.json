@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "copy": "ncp node_modules/uikit/src/scss/ _sass/uikit/ && ncp node_modules/system-font-css/ _sass/system-font-css/",
+    "build": "./node_modules/.bin/webpack",
     "postinstall": "npm run copy && ./node_modules/.bin/webpack"
   },
   "repository": {
