@@ -14,7 +14,7 @@ layout: default
                         <h5>{{ section.title }}</h5>
                         <ul class="uk-nav uk-nav-default">
                             {% for tool in section.tools %}
-                                <li data-uk-filter-control="filter: [data-{{ section.tag | slugify }}='{{ tool.tag | slugify }}']; group: {{ section.tag | slugify }}"><a href="#">{{ tool.title }}</a></li>
+                                <li data-uk-filter-control="filter: [data-{{ section.tag | slugify }}*='{{ tool.tag | slugify }}']; group: {{ section.tag | slugify }}"><a href="#">{{ tool.title }}</a></li>
                             {% endfor %}
                         </ul>
                     {% endfor %}
@@ -24,7 +24,7 @@ layout: default
                 <div class="filter-tool uk-child-width-1-2@s uk-child-width-1-3@m" data-uk-grid>
                     {% assign tools = site.tools | reverse %}
                     {% for tool in tools  %}
-                        <div{% if tool.mode %} data-mode="{{ tool.mode }}"{% endif %}{% if tool.scale %} data-scale="{{ tool.scale }}"{% endif %}{% if tool.terms %} data-terms="{{ tool.terms }}"{% endif %}{% if tool.type %} data-type="{{ tool.type }}"{% endif %}{% if tool.target %} data-target="{{ tool.target }}"{% endif %}>
+                        <div{% if tool.mode %} data-mode="{{ tool.mode | join: " " }}"{% endif %}{% if tool.scale %} data-scale="{{ tool.scale | join: " " }}"{% endif %}{% if tool.terms %} data-terms="{{ tool.terms | join: " " }}"{% endif %}{% if tool.type %} data-type="{{ tool.type | join: " " }}"{% endif %}{% if tool.target %} data-target="{{ tool.target | join: " " }}"{% endif %}>
                             <div class="uk-card uk-card-small uk-card-default">
                                 <div class="uk-card-media-top">
                                     <img src="//via.placeholder.com/620x400" alt="{{ tool.title }}">

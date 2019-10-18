@@ -1,7 +1,7 @@
 ---
 title: Lorem ipsum 6
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
-mode: walking
+mode: [walking, cycling, multi]
 scale: street
 terms: proprietary
 type: web
