@@ -38,6 +38,8 @@ paginate:           10
 # Blog path
 paginate_path:      "/blog/:num/"
 
+tool:
+  excerpt_length: 33
 # Path to post content assets directory i.e post images, pdfs etc
 uploads:            /uploads/
 

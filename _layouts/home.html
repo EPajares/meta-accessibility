@@ -34,7 +34,7 @@ layout: default
                                 </div>
                                 <div class="uk-card-body uk-text-small">
                                     <div class="tool-content-{{ forloop.index }}">
-                                        {% assign card_excerpt = 33 %}
+                                        {% assign card_excerpt = site.tool.excerpt_length %}
                                         {{ tool.content | truncatewords: card_excerpt }}
                                         {% assign content_count = tool.content | number_of_words %}
                                         {% if content_count > card_excerpt %}
@@ -48,7 +48,7 @@ layout: default
                                         </div>   
                                     {% endif %}                                 
                                 </div>
-                                <div id="xxx" class="uk-card-footer">Lorem</div>
+                                <div class="uk-card-footer">Lorem</div>
                             </div>
                         </div>
                     {% endfor %}
