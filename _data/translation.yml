@@ -20,3 +20,7 @@ en:
   contact_send:               "Send"
   more:                       "More"
   less:                       "Less"
+  all_tools:                  "All Tools"
+  tool_type:                  "Tool Type"
+  contact:                    "Contact"
+  tool_link:                  "Website"

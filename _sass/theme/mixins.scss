@@ -347,6 +347,9 @@
 }
 
 @mixin hook-utility-misc(){
+    [class^="tool-content"] p:last-of-type {
+        margin-bottom: 0;
+    }
     // .hvr-forward {
     //     display: inline-block;
     //     vertical-align: middle;

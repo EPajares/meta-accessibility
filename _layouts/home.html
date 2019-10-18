@@ -58,24 +58,39 @@ layout: default
                                         {{ tool.content | truncatewords: card_excerpt }}
                                         {% assign content_count = tool.content | number_of_words %}
                                         {% if content_count > card_excerpt %}
-                                            <p class="uk-margin-remove"><button class="uk-button uk-button-link" uk-toggle="target: .tool-content-{{ forloop.index }}">{{ site.data.translation[site.lang].more | default: "More" }}</button></p>
+                                        
+                                            <a href="#" uk-toggle="target: .tool-content-{{ forloop.index }}">{{ site.data.translation[site.lang].more | default: "More" }}</a>
                                         {% endif %}
                                     </div>
                                     {% if content_count > card_excerpt %}
                                         <div class="tool-content-{{ forloop.index }}" hidden>
                                             {{ tool.content }}
-                                            <p class="uk-margin-remove"><button class="uk-button uk-button-link" uk-toggle="target: .tool-content-{{ forloop.index }}">{{ site.data.translation[site.lang].less | default: "Less" }}</button></p>
+                                            <a href="#" uk-toggle="target: .tool-content-{{ forloop.index }}">{{ site.data.translation[site.lang].less | default: "Less" }}</a>
                                         </div>   
                                     {% endif %}                                 
                                 </div>
                                 <div class="uk-card-footer">
                                     <h5>{{ site.data.translation[site.lang].tool_type | default: "Tool Type" }}</h5>
-                                    <ul class="uk-list uk-list-bullet uk-text-small">
-                                        <li>Item</li>
+                                    <ul class="uk-list uk-text-small">
+                                        {% for category in site.data.navigation_tools %}
+                                            {% if tool[category.tag] %}
+                                                {% assign i = 0 %}
+                                                <li>
+                                                    <b>{{ category.title }}: </b>
+                                                    {%- for item in category.tools -%}
+                                                        {%- if tool[category.tag] contains item.tag -%}
+                                                            {%- if i > 0 -%}, {% endif -%}
+                                                            {{- item.title -}}
+                                                            {% assign i = i | plus: 1 %}
+                                                        {%- endif -%}
+                                                    {% endfor %}
+                                                </li>
+                                            {% endif %}
+                                        {% endfor %}
                                     </ul>
                                 </div>
                                 <div class="uk-card-footer uk-text-small">
-                                    <h5 class="uk-text-center">{{ site.data.translation[site.lang].contact | default: "Contact" }}</h5>
+                                    <h5>{{ site.data.translation[site.lang].contact | default: "Contact" }}</h5>
                                     <address>
                                         {% if tool.contact.name %}
                                             {{ tool.contact.name }}<br>
@@ -84,15 +99,15 @@ layout: default
                                             {{ tool.contact.address }}<br>
                                         {% endif %}
                                         {% if tool.contact.phone %}
-                                            {{ tool.contact.phone }}<br>
+                                            <a href="tel:{{ tool.contact.phone }}">{{ tool.contact.phone }}</a><br>
                                         {% endif %}
                                         {% if tool.contact.email %}
-                                            {{ tool.contact.email }}
+                                            <a href="mailto:{{ tool.contact.email }}">{{ tool.contact.email }}</a>
                                         {% endif %}
                                     </address>
                                     {% if tool.contact.url %}
                                         <div class="uk-text-center uk-margin-small-bottom">
-                                            <a class="uk-button uk-button-primary uk-button-small" href="{{ tool.contact.url }}"><span data-uk-icon="link"></span> {{ site.data.translation[site.lang].tool_link | default: "Website" }}</a>
+                                            <a class="uk-button uk-button-primary uk-button-small" href="{{ tool.contact.url }}" target="_blank"><span data-uk-icon="link"></span> {{ site.data.translation[site.lang].tool_link | default: "Website" }}</a>
                                         </div>
                                     {% endif %}
                                 </div>

@@ -1,5 +1,6 @@
 ---
 title: Lorem ipsum 2
+image: //via.placeholder.com/620x400
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: cycling
 scale: neighborhood
