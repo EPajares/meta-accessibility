@@ -7,8 +7,7 @@ contact:
         Arcisstraße 21 
         Munich 80333
         Germany
-    phone: +44 717 234 7474
-    email: john@company.com
+    email: elias.pajares@tum.de
     url: https://open-accessibility.org
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [walking, cycling]
