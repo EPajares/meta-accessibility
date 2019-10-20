@@ -1,21 +1,21 @@
 ---
-title: Lorem ipsum 6
+title: GOAT
 image: //via.placeholder.com/620x400
 contact:
-    name: John Smith
+    name: Technical University of Munich - Chair of Urban Structure and Transport Planning
     address: | 
-        High Street 21 
-        London EA75ER
-        United Kingdom
+        Arcisstraße 21 
+        Munich 80333
+        Germany
     phone: +44 717 234 7474
     email: john@company.com
-    url: https://epajares.github.io/meta-accessibility/
+    url: https://open-accessibility.org
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
-mode: [walking, cycling, multi]
-scale: street
-terms: proprietary
+mode: [walking, cycling]
+scale: [street,neighborhood]
+terms: open
 type: web
 target: public
 ---
 
-GOATbeta stands for Geo Open Accessibility Tool. This web-tool is meant to be open source, interactive, flexible and useful for accessibility planning. It is under development at the Chair for Urban Structure and Transport Planning at TUM. Currently, GOATbeta is designed to model walking accessibility, however frequent enhancements and extensions will be made on a regular basis. At the moment you can test the demo version of GOATbeta for the city of Munich here.
+GOAT stands for Geo Open Accessibility Tool. This web-tool is meant to be open source, interactive, flexible and useful for accessibility planning. It is under development at the Chair for Urban Structure and Transport Planning at TUM. Currently, GOATbeta is designed to model walking accessibility, however frequent enhancements and extensions will be made on a regular basis. At the moment you can test the demo version of GOATbeta for the city of Munich.
