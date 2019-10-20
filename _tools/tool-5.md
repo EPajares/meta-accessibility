@@ -1,6 +1,14 @@
 ---
 title: TUM Accessibility Atlas
 image: ../uploads/accessibility_atlas.png
+contact:
+    name: Technical University of Munich - Chair of Urban Structure and Transport Planning
+    address: | 
+        Arcisstraße 21 
+        Munich 80333
+        Germany
+    email: benjamin.buettner@tum.de
+    url: https://www.bgu.tum.de/en/sv/homepage/
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [walking,public,motorized]
 scale: [street,neighborhood,municipal,regional]
