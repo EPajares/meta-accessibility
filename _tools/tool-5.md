@@ -1,14 +1,13 @@
 ---
-title: Lorem ipsum 5
-image: //via.placeholder.com/620x400
+title: TUM Accessibility Atlas
+image: ../uploads/accessibility_atlas.png
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
-mode: multi
-scale: street
+mode: [walking,public,motorized]
+scale: [street,neighborhood,municipal,regional]
 terms: consultancy
-type: guideline
-target: real-estate
+type: extension
+target: [planners,decision-makers]
 ---
 
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Cras at dolor eget urna varius faucibus tempus in elit. 
-
-Cras a dui imperdiet, tempus metus quis, pharetra turpis. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+This multimodal  GIS  instrument  offers  a  wide  range  of  thematic  analyses  on different  scales  within  the  Munich  Metropolitan  Region.  Hence,  the  EMM Accessibility  Atlas  is  capable  of  analysing  the  accessibility  to  public transportation stops by network-based isochrones of non-motorised modes of transport  on  a  district  level  as  well  as  calculating  gravity-based  accessibility indicators, e.g. number of potential customers (inhabitants) within private car rangeof a regional shopping centre.New  structural  and network  data  can  easily  beincluded  and  modified;  thus, multiple planning issues of varying spatial dimensions can be tackled with the help of this instrument.Good   and   transparent   visualisation   provides   a   proper   platform   for interdisciplinary discussion. 
+The maps produced by the EMM Accessibility Atlas are included in regional policy and strategy papers as well as in reports about mobility costs, climate protection and spatial development. An online webtool contains the basic functions and data, which is publicly accessible and free of charge.  Individual  calculations  regarding  public  transportation  and  car accessibility can be performed within the Munich Metropolitan Region.
