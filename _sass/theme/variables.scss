@@ -3,7 +3,7 @@
 
 // Color
 $global-color:                                  #333;       // TUM Black
-$global-muted-color:                            #b3b3b3;    // TUM Gray text
+$global-muted-color:                            #888; //#b3b3b3;    // TUM Gray text
 $global-primary-background:                     #3070B3;    // TUM Web blue
 $global-secondary-background:                   #222;
 $global-warning-background:                     #E37222;    // TUM Orange
@@ -24,6 +24,7 @@ $global-font-family:                            system-ui;
 // $heading-primary-font-size:                     2.875rem;
 // $heading-primary-font-size-m:                   3.75rem;
 $base-heading-font-weight:                      500;
+$base-heading-color:                            #222;
 // $base-heading-margin-top:                       50px;
 // $base-h2-line-height:                           1.4;
 // $text-lead-font-size:                           1.125rem;
@@ -75,6 +76,8 @@ $button-warning-hover-background:               darken($button-warning-backgroun
 $button-success-background:                     $global-success-background;
 $button-success-hover-background:               darken($button-success-background, 5%);
 
+$container-max-width:                           1400px;
+
 // Label
 // $label-font-size:                               $xsmall-font-size;
 // $label-border-radius:                           20px;
@@ -117,6 +120,8 @@ $subnav-item-text-transform:                    none;
 // $section-padding-vertical-m:                    60px;
 
 // Card
+$card-title-font-size:                          1.25rem;
+
 // $card-small-body-padding-horizontal:            25px;
 // $card-small-body-padding-vertical:              25px;
 // $card-body-padding-vertical-l:                  50px;

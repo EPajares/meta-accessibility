@@ -15,6 +15,7 @@ en:
   mobile_nav_site:            "Menu"
   contact_name:               "Name"
   contact_email:              "Email"
+  contact_phone:              "Phone"
   contact_subject:            "Subject"
   contact_message:            "Message"
   contact_send:               "Send"

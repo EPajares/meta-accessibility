@@ -187,7 +187,18 @@
 
 @mixin hook-card-body(){}
 
-@mixin hook-card-misc(){}
+@mixin hook-card-footer(){
+    address {
+        margin-top: 10px;
+    }
+
+    h5 {
+        font-size: 1.0625rem;
+    }
+}
+
+@mixin hook-card-misc(){
+}
 
 @mixin hook-form(){}
 
@@ -195,7 +206,15 @@
     font-weight: 500;
 }
 
-@mixin hook-list-misc(){}
+@mixin hook-list-misc(){
+    .list-small {
+        margin-top: 10px;
+    
+        >li:nth-child(n+2) {
+            margin-top: 3px;
+        }
+    }
+}
 
 @mixin hook-article-title(){}
 
@@ -349,6 +368,18 @@
 @mixin hook-utility-misc(){
     [class^="tool-content"] p:last-of-type {
         margin-bottom: 0;
+    }
+
+    .text-500 {
+        font-weight: 500;
+    }
+
+    .margin-xsmall-bottom {
+        margin-bottom: 10px;
+    }
+
+    .text-gray {
+        color: #555;
     }
     // .hvr-forward {
     //     display: inline-block;

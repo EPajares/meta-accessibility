@@ -1,6 +1,6 @@
 ---
 title: GOAT
-image: https://www.open-accessibility.org/img/logonav.png
+image: goat.png
 contact:
     name: Technical University of Munich - Chair of Urban Structure and Transport Planning
     address: | 
