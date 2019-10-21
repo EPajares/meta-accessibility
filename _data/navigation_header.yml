@@ -5,22 +5,23 @@ left:
 right:
 
   - title: Publications
-    dropdown:
+    url: /publications
+    # dropdown:
 
-      - title: Publication 1
-        url: /#
+    #   - title: Publication 1
+    #     url: /#
 
-      - title: Publication 2
-        url: /#
+    #   - title: Publication 2
+    #     url: /#
 
   - title: COST Action TU1002
-    url: /#
+    url: /cost-action-tu1002
 
   - title: About
-    url: /#
+    url: /about
 
   - title: Contact
-    url: /#
+    url: /contact
 
   # - title: Changelog
   #   url: /contact/

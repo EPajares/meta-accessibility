@@ -1,10 +1,10 @@
 # Footer navigation links
 
 - title: About
-  url: /#
+  url: /about
 
 - title: Imprint & Privacy Policy
   url: /imprint-privacy-policy/
 
 - title: Contact
-  url: /#
+  url: /contact
