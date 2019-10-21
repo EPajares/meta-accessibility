@@ -1,31 +1,32 @@
-<footer id="footer" class="uk-section uk-text-center uk-text-muted">
-    <div class="uk-container uk-container-small">
-
-        <div>
-            <ul class="uk-subnav uk-flex-center">
-                {% for link in site.data.navigation_footer %}
-                    {% if link.url contains 'http' %}
-                        {% assign domain = '' %}
-                    {% else %}
-                        {% assign domain = '' | relative_url %}
-                    {% endif %}
-                    {% if link.url == page.url %}
-                        {% assign current = ' class="uk-active"' %}
-                    {% else %}
-                        {% assign current = null %}
-                    {% endif %}
-                    {% if link.title %}
-                        <li{{ current }}><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %}>{{ link.title }}</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-        </div>
-        <div class="uk-margin-medium">
-            <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
-                {% include social-networks.html %}
+<footer id="footer" class="uk-section uk-section-small uk-section-muted uk-text-muted uk-margin-large-top">
+    <div class="uk-container">
+        <div class="uk-flex uk-flex-middle uk-grid-small" data-uk-grid>
+            <div class="uk-width-auto@m">
+                <div class="uk-width-auto@m uk-text-small">
+                    <ul class="uk-subnav uk-margin-remove-vertical uk-flex uk-flex-center uk-flex-left@m">
+                        {% for link in site.data.navigation_footer %}
+                            {% if link.url contains 'http' %}
+                                {% assign domain = '' %}
+                            {% else %}
+                                {% assign domain = '' | relative_url %}
+                            {% endif %}
+                            {% if link.url == page.url %}
+                                {% assign current = ' class="uk-active"' %}
+                            {% else %}
+                                {% assign current = null %}
+                            {% endif %}
+                            {% if link.title %}
+                                <li{{ current }}><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %}>{{ link.title }}</a></li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </div>
             </div>
+            <div class="uk-width-expand@m">
+                <div class="uk-text-small uk-text-center uk-text-right@m">
+                    <p class="uk-margin-remove">{{ site.footer.copyright }}</p>
+                </div>
+            </div>            
         </div>
-        <div class="uk-margin-medium uk-text-small copyright link-secondary">{{ site.footer.copyright }}</div>
-
     </div>
 </footer>

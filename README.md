@@ -19,9 +19,11 @@ target: public
 ---
 ```
 
-Image: Enter a full URL to an external image (including the `http` part) or upload the image to `uploads` folder and specify only image file name e.g. `image: goat.png`.
+#### Image
+Enter a full URL to an external image (including the `http` part) or upload the image to `uploads` folder and specify only image file name e.g. `image: goat.png`.
 
-Tool type tags: for reference of all available tags see `_data/navigation_tools.yml` file. Enter multiple tags as `mode: [walking, cycling]`.
+#### Tool type tags 
+For reference of all available tags see `_data/navigation_tools.yml` file. Enter multiple tags as `mode: [walking, cycling]`.
 
 ## Installation
 
