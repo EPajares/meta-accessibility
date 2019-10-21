@@ -1,6 +1,6 @@
 ---
 title: TUM Accessibility Atlas
-image: ../../uploads/accessibility_atlas.png
+image: accessibility_atlas.png
 contact:
     name: Technical University of Munich - Chair of Urban Structure and Transport Planning
     address: | 

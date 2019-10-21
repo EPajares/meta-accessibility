@@ -1,6 +1,6 @@
 ---
 title: Lorem ipsum 1
-image: //via.placeholder.com/620x400
+image: https://via.placeholder.com/620x400
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: walking
 scale: street
