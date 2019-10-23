@@ -54,9 +54,9 @@ layout: default
                                 </div>
                                 <div class="uk-card-body uk-text-small text-gray">
                                     <div class="tool-content-{{ forloop.index }}">
-                                        {% assign card_excerpt = site.tool.excerpt_length %}
-                                        {{ tool.content | truncatewords: card_excerpt }}
-                                        {% assign content_count = tool.content | number_of_words %}
+                                        {% assign card_excerpt = 160 %}
+                                        {{ tool.content | truncate: card_excerpt }}
+                                        {% assign content_count = tool.content | size %}
                                         {% if content_count > card_excerpt %}                                   
                                             <a class="uk-link-muted" href="#" uk-toggle="target: .tool-content-{{ forloop.index }}">{{ site.data.translation[site.lang].more | default: "More" }}</a>
                                         {% endif %}
