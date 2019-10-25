@@ -60,22 +60,46 @@ layout: default
                                 </div>
                                 <div class="uk-card-body uk-text-small text-gray">
                                     <div class="tool-content-{{ forloop.index }}">
-                                        {% assign card_excerpt = 160 %}
+                                        {% assign card_excerpt = site.tool.excerpt_length %}
                                         {{ tool.content | truncate: card_excerpt }}
                                         {% assign content_count = tool.content | size %}
                                         {% if content_count > card_excerpt %}                                   
-                                            <a class="uk-link-muted" href="#" uk-toggle="target: .tool-content-{{ forloop.index }}">{{ site.data.translation[site.lang].more | default: "More" }}</a>
+                                            <a href="#" uk-toggle="target: .tool-content-{{ forloop.index }}">{{ site.data.translation[site.lang].more | default: "More" }}</a>
                                         {% endif %}
                                     </div>
                                     {% if content_count > card_excerpt %}
                                         <div class="tool-content-{{ forloop.index }}" hidden>
                                             {{ tool.content }}
-                                            <a class="uk-link-muted" href="#" uk-toggle="target: .tool-content-{{ forloop.index }}">{{ site.data.translation[site.lang].less | default: "Less" }}</a>
+                                            <a href="#" uk-toggle="target: .tool-content-{{ forloop.index }}">{{ site.data.translation[site.lang].less | default: "Less" }}</a>
                                         </div>   
                                     {% endif %}                                 
                                 </div>
                                 <div class="uk-card-footer">
-                                    <h5 class="margin-xsmall-bottom">{{ site.data.translation[site.lang].tool_type | default: "Categorization" }}</h5>
+                                    <ul data-uk-accordion>
+                                        <li>
+                                            <a class="uk-accordion-title" href="#">{{ site.data.translation[site.lang].tool_type | default: "Categorization" }}</a>
+                                            <div class="uk-accordion-content">
+                                                <ul class="uk-list list-small uk-text-small text-gray">
+                                                    {% for category in site.data.navigation_tools %}
+                                                        {% if tool[category.tag] %}
+                                                            {% assign i = 0 %}
+                                                            <li>
+                                                                <span class="text-500">{{ category.title }}: </span>
+                                                                {%- for item in category.tools -%}
+                                                                    {%- if tool[category.tag] contains item.tag -%}
+                                                                        {%- if i > 0 -%}, {% endif -%}
+                                                                        {{- item.title -}}
+                                                                        {% assign i = i | plus: 1 %}
+                                                                    {%- endif -%}
+                                                                {% endfor %}
+                                                            </li>
+                                                        {% endif %}
+                                                    {% endfor %}
+                                                </ul>                                                
+                                            </div>
+                                        </li>
+                                    </ul>                                    
+                                    <!-- <h5 class="margin-xsmall-bottom">{{ site.data.translation[site.lang].tool_type | default: "Categorization" }}</h5>
                                     <ul class="uk-list list-small uk-text-small text-gray">
                                         {% for category in site.data.navigation_tools %}
                                             {% if tool[category.tag] %}
@@ -92,11 +116,33 @@ layout: default
                                                 </li>
                                             {% endif %}
                                         {% endfor %}
-                                    </ul>
+                                    </ul> -->
                                 </div>
                                 {% if tool.contact %}
                                 <div class="uk-card-footer uk-text-small text-gray">
-                                    <h5 class="margin-xsmall-bottom">{{ site.data.translation[site.lang].contact | default: "Contact" }}</h5>
+                                    <ul data-uk-accordion>
+                                        <li>
+                                            <a class="uk-accordion-title" href="#">{{ site.data.translation[site.lang].contact | default: "Contact" }}</a>
+                                            <div class="uk-accordion-content">
+                                                <address>
+                                                    {% if tool.contact.name %}
+                                                        {{ tool.contact.name }}<br>
+                                                    {% endif %}
+                                                    {% if tool.contact.address %}
+                                                        {{ tool.contact.address }}<br>
+                                                    {% endif %}
+                                                    {% if tool.contact.phone %}
+                                                        {{ site.data.translation[site.lang].contact_phone | default: "Phone" }}: <a href="tel:{{ tool.contact.phone }}">{{ tool.contact.phone }}</a><br>
+                                                    {% endif %}
+                                                    {% if tool.contact.email %}
+                                                        {{ site.data.translation[site.lang].contact_email | default: "Email" }}: <a class="uk-link-text" href="mailto:{{ tool.contact.email }}">{{ tool.contact.email }}</a>
+                                                    {% endif %}
+                                                </address>
+                                            </div>
+                                        </li>
+                                    </ul>   
+                                </div>                                 
+                                    <!-- <h5 class="margin-xsmall-bottom">{{ site.data.translation[site.lang].contact | default: "Contact" }}</h5>
                                     <address>
                                         {% if tool.contact.name %}
                                             {{ tool.contact.name }}<br>
@@ -110,10 +156,11 @@ layout: default
                                         {% if tool.contact.email %}
                                             {{ site.data.translation[site.lang].contact_email | default: "Email" }}: <a class="uk-link-text" href="mailto:{{ tool.contact.email }}">{{ tool.contact.email }}</a>
                                         {% endif %}
-                                    </address>
+                                    </address> -->
+                                <div class="uk-card-footer uk-text-small text-gray">
                                     {% if tool.contact.url %}
-                                        <div class="uk-text-center uk-margin-small-bottom">
-                                            <a class="uk-button uk-button-primary uk-button-small" href="{{ tool.contact.url }}" target="_blank"><span data-uk-icon="link"></span> {{ site.data.translation[site.lang].tool_link | default: "Website" }}</a>
+                                        <div class="uk-text-center uk-margin-small-top uk-margin-small-bottom">
+                                            <a class="uk-button uk-button-primary-outline uk-button-small" href="{{ tool.contact.url }}" target="_blank"><span data-uk-icon="link"></span> {{ site.data.translation[site.lang].tool_link | default: "Website" }}</a>
                                         </div>
                                     {% endif %}
                                 </div>
