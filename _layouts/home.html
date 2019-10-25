@@ -75,7 +75,7 @@ layout: default
                                     {% endif %}                                 
                                 </div>
                                 <div class="uk-card-footer">
-                                    <h5 class="margin-xsmall-bottom">{{ site.data.translation[site.lang].tool_type | default: "Tool Type" }}</h5>
+                                    <h5 class="margin-xsmall-bottom">{{ site.data.translation[site.lang].tool_type | default: "Categorization" }}</h5>
                                     <ul class="uk-list list-small uk-text-small text-gray">
                                         {% for category in site.data.navigation_tools %}
                                             {% if tool[category.tag] %}

@@ -10,7 +10,7 @@ contact:
     address: 
     email: 
     url: 
-# Tool type tags
+# Categorization tags
 mode: [walking, cycling]
 scale: [street,neighborhood]
 terms: open
@@ -22,7 +22,7 @@ target: public
 #### Image
 Enter a full URL to an external image (including the `http` part) or upload the image to `uploads` folder and specify only image file name e.g. `image: goat.png`.
 
-#### Tool type tags 
+#### Categorization tags 
 For reference of all available tags see `_data/navigation_tools.yml` file. Enter multiple tags as `mode: [walking, cycling]`.
 
 ## Installation
