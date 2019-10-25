@@ -11,6 +11,9 @@ layout: default
                         <li class="uk-active" uk-filter-control><a href="#">{{ site.data.translation[site.lang].all_tools | default: "All Tools" }}</a></li>
                     </ul>
                     {% for section in site.data.navigation_tools %}
+                        {% if section.filter != true %}
+                            {% continue %}
+                        {% endif %}                    
                         <h5>{{ section.title }}</h5>
                         <ul class="uk-nav uk-nav-default">
                             {% for tool in section.tools %}
@@ -25,6 +28,9 @@ layout: default
                     <ul class="uk-subnav uk-subnav-pill">
                         <li class="uk-active" uk-filter-control><a href="#">{{ site.data.translation[site.lang].all_tools | default: "All Tools" }}</a></li>
                         {% for section in site.data.navigation_tools %}
+                            {% if section.filter != true %}
+                                {% continue %}
+                            {% endif %}                    
                             <li>
                                 <a href="#">{{ section.title }} <span uk-icon="icon:  triangle-down"></span></a>
                                 <div uk-dropdown="mode: click;">

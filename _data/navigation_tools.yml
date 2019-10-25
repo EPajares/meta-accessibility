@@ -1,6 +1,7 @@
 
 - title: Transport mode 
   tag: mode
+  filter: true
   tools: 
   - title: Walking
     tag: walking
@@ -15,6 +16,7 @@
 
 - title: Geographical scale
   tag: scale
+  filter: true
   tools: 
   - title: Street
     tag: street
@@ -27,6 +29,7 @@
 
 - title: Terms of use 
   tag: terms
+  filter: false
   tools: 
   - title: Open source
     tag: open-source
@@ -39,6 +42,7 @@
 
 - title: Tool type 
   tag: type
+  filter: true
   tools: 
   - title: Web Tool
     tag: web
@@ -51,6 +55,7 @@
 
 - title: Target group 
   tag: target
+  filter: true
   tools: 
   - title: Planners
     tag: planners
