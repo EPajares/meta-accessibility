@@ -1,0 +1,23 @@
+<ul class="uk-list list-downloads uk-margin-medium-top">
+    {% for item in site.data[include.data] %}
+        {% if item.url contains 'http' %}
+            {% assign domain = '' %}
+        {% else %}
+            {% assign domain = site.uploads | absolute_url %}
+        {% endif %}
+        {% if item.title %}
+          <li class="uk-border-rounded uk-box-shadow-small">
+            <div class="uk-flex uk-flex-middle" data-uk-grid>
+              <div class="uk-width-1-1">
+                <h5 class="uk-margin-remove">{{ item.title }}</h5>
+              </div>
+              <div class="uk-width-1-1">
+                {% for download in item.downloads %}
+                  <a href="{{ domain }}{{ download.url }}" target="_blank"><span data-uk-icon="icon: download; ratio: 1.2"></span>{{ download.title }}</a>
+                {% endfor %}
+              </div>
+            </div>
+          </li>
+        {% endif %}
+    {% endfor %}
+</ul>

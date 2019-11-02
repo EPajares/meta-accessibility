@@ -1,5 +1,6 @@
 ---
 layout: home
+width: large
 # header:
 #     background: '#3070B3'
 hero:

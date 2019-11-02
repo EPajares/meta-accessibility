@@ -33,7 +33,7 @@ $base-heading-color:                            #222;
 // Borders
 // $global-border:                                 #e5e5e5;
 // $border-light:                                  #ebecee;
-// $border-xlight:                                 #f5f5f5;
+$border-xlight:                                 #fafafa;
 
 // Border radius
 $border-rounded-border-radius:                  3px;
@@ -76,9 +76,10 @@ $button-warning-hover-background:               darken($button-warning-backgroun
 $button-success-background:                     $global-success-background;
 $button-success-hover-background:               darken($button-success-background, 5%);
 
-$container-max-width:                           1400px;
+$container-max-width:                           1000px;
+$container-large-max-width:                     1400px;
 
-// Label
+// Label  
 // $label-font-size:                               $xsmall-font-size;
 // $label-border-radius:                           20px;
 // $label-text-transform:                          unset;
