@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<section>
+<section class="uk-section">
     <div class="uk-container{% if page.width %} uk-container-{{page.width}}{% endif %}" data-uk-filter="target: .filter-tool">
         <div data-uk-grid>
-            <div class="uk-width-1-4@m uk-flex-last@m">
+            <div class="uk-width-1-5@m uk-flex-last@m">
                 <div class="uk-visible@m" uk-sticky="offset: 100; bottom: true">
                     <ul class="uk-nav uk-nav-default">
                         <li class="uk-active" uk-filter-control><a href="#">{{ site.data.translation[site.lang].all_tools | default: "All Tools" }}</a></li>
@@ -14,7 +14,7 @@ layout: default
                         {% if section.filter != true %}
                             {% continue %}
                         {% endif %}                    
-                        <h5>{{ section.title }}</h5>
+                        <h5 class="uk-text-secondary uk-margin-small-bottom">{{ section.title }}</h5>
                         <ul class="uk-nav uk-nav-default">
                             {% for tool in section.tools %}
                                 <li data-uk-filter-control="filter: [data-{{ section.tag | slugify }}*='{{ tool.tag | slugify }}']; group: {{ section.tag | slugify }}"><a href="#">{{ tool.title }}</a></li>
@@ -38,7 +38,6 @@ layout: default
                                         {% for tool in section.tools %}
                                             <li data-uk-filter-control="filter: [data-{{ section.tag | slugify }}*='{{ tool.tag | slugify }}']; group: {{ section.tag | slugify }}"><a href="#">{{ tool.title }}</a></li>
                                         {% endfor %}
-                                        <li><a href="#">Item</a></li>
                                     </ul>
                                 </div>                                
                             </li>

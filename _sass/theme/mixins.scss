@@ -48,6 +48,11 @@
       margin-right: -$navbar-nav-item-padding-horizontal;
     }
   }
+
+  .uk-navbar-container:not(.uk-navbar-transparent) {
+    
+  }
+
 }
 
 @mixin hook-logo() {
@@ -238,15 +243,19 @@
 
   .list-downloads {
     li {
-      border: solid 1px $border-xlight;
-      padding: 16px;
+      border: solid 1px #f1f6fb;
+      box-shadow: 0 2px 8px #d3dce4;
+      padding: 26px;
       
       &:nth-child(n+2) {
           margin-top: 24px;
       }
 
       a {
-        color: $global-primary-background;
+        // color: $global-primary-background;
+        &:hover {
+          text-decoration: none;
+        }
       }
     }
   }
@@ -254,7 +263,9 @@
 
 }
 
-@mixin hook-article-title() {}
+@mixin hook-article-title() {
+  font-weight: 700;
+}
 
 @mixin hook-article-meta() {
   // a {
@@ -370,6 +381,10 @@
   // }         
 }
 
+@mixin hook-heading-medium(){
+  font-weight: 700;
+}
+
 @mixin hook-label() {}
 
 @mixin hook-navbar-sticky() {
@@ -408,6 +423,37 @@
   [class^="tool-content"] p:last-of-type {
     margin-bottom: 0;
   }
+
+  @media (min-width: $breakpoint-medium) {
+    .uk-width-header {
+      width: calc(100% * 1 / 2.4);
+      // margin-right: -100px;
+    }
+
+    .uk-card-media-left {
+      ~ div .uk-card-body {
+        padding-right: 0;
+      }
+    }
+
+    .uk-card-media-right {
+      ~ div .uk-card-body {
+        padding-left: 0;
+      }
+    }
+  }
+
+  .uk-lead-header {
+    font-size: 1.125rem;
+  }
+
+  .uk-section-page-title, .uk-background-primary-xlight {
+    background: $primary-background-xlight;
+  }
+
+  // .uk-filter-subnav {
+  //   h5 
+  // }
 
   .text-500 {
     font-weight: 500;

@@ -2,22 +2,24 @@
 layout: default
 ---
 
+<div class="uk-section uk-section-page-title">
+  <div class="uk-container{% if page.width and page.width != 'expand' %} uk-container-{{page.width}}{% endif %} uk-margin-bottom">
+    <h1 class="uk-article-title">{{ page.title | escape }}</h1>
+    {% if page.subtitle %}
+    <p class="uk-text-lead">{{ page.subtitle }}</p>
+    {% endif %}
+  </div>
+</div>
 {% if page.width == 'expand' %}
-    {{ content }}
+  {{ content }}
 {% else %}
 <div class="uk-section">
-    <div class="uk-container{% if page.width %} uk-container-{{page.width}}{% endif %}">
-
-        <article class="uk-article">
-
-            <h1 class="uk-article-title">{{ page.title | escape }}</h1>
-
-            <div class="article-content link-primary">
-                {{ content }}
-            </div>
-
-        </article>
-
+  <div class="uk-container{% if page.width %} uk-container-{{page.width}}{% endif %}">
+    <div class="uk-article">
+      <div class="article-content link-primary">
+        {{ content }}
+      </div>
     </div>
+  </div>
 </div>
 {% endif %}

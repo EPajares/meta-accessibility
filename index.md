@@ -1,9 +1,17 @@
 ---
 layout: home
 width: large
-# header:
-#     background: '#3070B3'
-hero:
-    title: Accessibility Planning
-    subtitle: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+navbar:
+  transparent:  true
+  color: dark
+header:
+  background: '#f1f6fb'
+  color: 
+  hero_image: header-home-4.svg
+  title: Faster Accessibility Planning
+  subtitle: Lorem Ipsum is simply dummy text of the printing and typesetting industry 
+            is simply dummy text of the printing and typesetting industry.
+  cta: 
+    url: '#'
+    text: Request To Add Tool
 ---

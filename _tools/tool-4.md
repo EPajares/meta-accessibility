@@ -1,6 +1,6 @@
 ---
 title: Lorem ipsum 4
-image: https://via.placeholder.com/620x400
+image: https://via.placeholder.com/620x400/ecf0f3/ecf0f3
 contact:
     name: Technical University of Munich - Chair of Urban Structure and Transport Planning
     address: | 

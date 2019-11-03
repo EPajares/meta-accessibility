@@ -5,7 +5,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Logo
+title:              LOGO
 description:        
 lang:               en
 
@@ -37,7 +37,7 @@ paginate:           10
 
 # Blog path
 paginate_path:      "/blog/:num/"
-
+  
 tool:
   excerpt_length:   194
 # Path to post content assets directory i.e post images, pdfs etc

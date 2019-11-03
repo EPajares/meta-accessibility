@@ -1,6 +1,6 @@
 ---
 title: Lorem ipsum 3
-image: https://via.placeholder.com/620x400
+image: https://via.placeholder.com/620x400/ecf0f3/ecf0f3
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: public
 scale: municipal
