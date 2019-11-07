@@ -426,7 +426,7 @@
 
   @media (min-width: $breakpoint-medium) {
     .uk-width-header {
-      width: calc(100% * 1 / 2.4);
+      width: calc(100% * 1 / 2.2);
       // margin-right: -100px;
     }
 
@@ -445,6 +445,7 @@
 
   .uk-lead-header {
     font-size: 1.125rem;
+    color: #4d555d;
   }
 
   .uk-section-page-title, .uk-background-primary-xlight {
