@@ -10,10 +10,10 @@
   style="{% if page.header.background %}background-color: {{ page.header.background }};{% endif %}{% if page.header.image %} background-image: url({% if image contains 'http' %}{{ image }}{% else %}{{ site.uploads | absolute_url }}{{ image }}{% endif %});{% endif %}">
   {% include navbar.html %}
   <div
-    class="uk-section uk-section-small uk-position-relative{% if page.header.color %} uk-{{ page.header.color | default: 'dark' }}{% endif %}"
+    class="uk-section uk-position-relative{% if page.header.color %} uk-{{ page.header.color | default: 'dark' }}{% endif %}"
     data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; repeat: true">
     <div class="uk-container{% if page.width %} uk-container-{{page.width}}{% endif %}">
-      <div data-uk-grid>
+      <div class="uk-grid-collaps-" data-uk-grid>
         <div class="uk-width-expand@m">
           {% if page.header.hero_image %}
           <div class="hero-image">
@@ -23,7 +23,7 @@
         </div>
         <div class="uk-width-header uk-flex uk-flex-middle uk-flex-first@m">
           <div>
-            <h1 class="uk-heading-medium uk-margin-remove-top">{{ page.header.title }}</h1>
+            <h1 class="uk-heading-small uk-margin-remove-top">{{ page.header.title }}</h1>
             {% if page.header.subtitle %}<p class="uk-lead-header">{{ page.header.subtitle }}</p>{% endif %}
             {% if page.header.cta %}
               <a href="{{ page.header.cta.url }}" class="uk-button uk-button-primary-outline uk-border-pill uk-margin-top">{{ page.header.cta.text }}</a>
