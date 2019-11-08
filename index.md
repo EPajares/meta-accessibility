@@ -8,9 +8,8 @@ header:
   background:
   color: 
   hero_image: header-home-1.svg
-  title: Faster Accessibility Planning
-  subtitle: Lorem Ipsum is simply dummy text of the printing and typesetting industry 
-            is simply dummy text of the printing industry
+  title: Effective Accessibility Planning
+  subtitle: Explore a wide range of accessibility instruments.
   cta: 
     url: '#'
     text: Request To Add Tool
