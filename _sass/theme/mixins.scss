@@ -457,6 +457,11 @@
     // }
   }
 
+  .uk-section-footer {
+    border-top: solid 1px lighten($global-border, 4%);
+    background: #fff;
+  }
+
   .uk-lead-header {
     font-size: 1.0625rem;
     // color: #4d555d;
