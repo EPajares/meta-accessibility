@@ -48,7 +48,7 @@ layout: default
                     {% assign tools = site.tools | reverse %}
                     {% for tool in tools  %}
                         <div{% if tool.mode %} data-mode="{{ tool.mode | join: " " }}"{% endif %}{% if tool.scale %} data-scale="{{ tool.scale | join: " " }}"{% endif %}{% if tool.terms %} data-terms="{{ tool.terms | join: " " }}"{% endif %}{% if tool.type %} data-type="{{ tool.type | join: " " }}"{% endif %}{% if tool.target %} data-target="{{ tool.target | join: " " }}"{% endif %}>
-                            <div class="uk-card uk-card-small uk-card-default">
+                            <div class="uk-card uk-card-small uk-card-default uk-clip uk-border-rounded">
                                 {% if tool.image %}
                                     <div class="uk-card-media-top">
                                         <img src="{% if tool.image contains 'http' %}{{ tool.image }}{% else %}{{ site.uploads | absolute_url }}{{ tool.image }}{% endif %}" alt="{{ tool.title }}">

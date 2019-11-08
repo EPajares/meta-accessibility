@@ -204,14 +204,14 @@
 @mixin hook-alert-misc() {}
 
 @mixin hook-card() {
-  border-radius: $border-rounded-border-radius;
+  // border-radius: $border-rounded-border-radius;
 
-  .uk-card-media-top {
-    img {
-      border-top-left-radius: $border-rounded-border-radius;
-      border-top-right-radius: $border-rounded-border-radius;
-    }
-  }
+  // .uk-card-media-top {
+  //   img {
+  //     border-top-left-radius: $border-rounded-border-radius;
+  //     border-top-right-radius: $border-rounded-border-radius;
+  //   }
+  // }
 }
 
 @mixin hook-card-footer() {
@@ -432,6 +432,10 @@
 @mixin hook-utility-misc() {
   [class^="tool-content"] p:last-of-type {
     margin-bottom: 0;
+  }
+
+  .uk-clip {
+    overflow: hidden;
   }
 
   .uk-background-xlight {

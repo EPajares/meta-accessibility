@@ -12,7 +12,7 @@ width: expand
 
 <div class="uk-section">
   <div class="uk-container">
-    <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@m" data-uk-grid>
+    <div class="uk-card uk-card-default uk-clip uk-border-rounded uk-grid-collapse uk-child-width-1-2@m" data-uk-grid>
       <div class="uk-card-media-left uk-cover-container">
         <iframe
           src="https://www.youtube-nocookie.com/embed/Wop5mRtMdW0?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1"
@@ -28,7 +28,7 @@ width: expand
         </div>
       </div>
     </div>
-    <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@m uk-margin-large-top" data-uk-grid>
+    <div class="uk-card uk-card-default uk-clip uk-border-rounded uk-grid-collapse uk-child-width-1-2@m uk-margin-large-top" data-uk-grid>
       <div class="uk-flex-last@s uk-card-media-right uk-cover-container">
         <iframe
           src="https://www.youtube-nocookie.com/embed/FMndvclQgpQ?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1"
