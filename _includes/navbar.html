@@ -1,8 +1,8 @@
 {% if site.navbar.sticky %}
-<div data-uk-sticky="animation: uk-animation-slide-top; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky uk-light; cls-inactive: uk-navbar-transparent; top: header">
+<div data-uk-sticky="animation: uk-animation-slide-top; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; cls-inactive: uk-navbar-transparent; top: header">
 {% endif %}
     <nav class="uk-navbar-container{% if page.navbar.transparent %} uk-navbar-transparent{% endif %}{% if page.navbar.color %} uk-{{ page.navbar.color }}{% else %} uk-light-{% endif %}">
-        <div class="uk-container uk-container-large">
+        <div class="uk-container uk-container-large uk-position-z-index uk-position-relative">
             <div data-uk-navbar>
                 <div class="uk-navbar-left">
                     <a class="uk-navbar-item uk-logo" href="{{ "/" | relative_url }}">{% if site.logo %}<img src="{{ site.uploads | absolute_url }}{{ site.logo }}" alt="{{ site.title | escape }}">{% else %}{{ site.title | escape }}{% endif %}</a>

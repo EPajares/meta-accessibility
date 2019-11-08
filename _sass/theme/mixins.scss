@@ -29,7 +29,11 @@
 // }
 
 @mixin hook-navbar() {
-  font-weight: 500;
+  font-weight: 700;
+
+  li > a {
+    letter-spacing: 1px;
+  }
 }
 
 @mixin hook-navbar-misc() {
@@ -50,7 +54,13 @@
   }
 
   .uk-navbar-container:not(.uk-navbar-transparent) {
-    
+    border-bottom: solid 1px lighten($global-border, 5%);
+  }
+
+  header {
+    > .uk-sticky {
+      z-index: 990;
+    }
   }
 
 }
@@ -243,8 +253,8 @@
 
   .list-downloads {
     li {
-      border: solid 1px #f1f6fb;
-      box-shadow: 0 2px 8px #d3dce4;
+      // border: solid 1px #f1f6fb;
+      // box-shadow: 0 2px 8px #d3dce4;
       padding: 26px;
       
       &:nth-child(n+2) {
@@ -381,7 +391,7 @@
   // }         
 }
 
-@mixin hook-heading-medium(){
+@mixin hook-heading-small(){
   font-weight: 700;
 }
 
@@ -424,33 +434,37 @@
     margin-bottom: 0;
   }
 
+  .uk-background-xlight {
+    background: $primary-background-xlight;
+  }
+
   @media (min-width: $breakpoint-medium) {
     .uk-width-header {
-      width: calc(100% * 1 / 2.2);
+      width: calc(100% * 1 / 2.4);
       // margin-right: -100px;
     }
 
-    .uk-card-media-left {
-      ~ div .uk-card-body {
-        padding-right: 0;
-      }
-    }
+    // .uk-card-media-left {
+    //   ~ div .uk-card-body {
+    //     padding-right: 0;
+    //   }
+    // }
 
-    .uk-card-media-right {
-      ~ div .uk-card-body {
-        padding-left: 0;
-      }
-    }
+    // .uk-card-media-right {
+    //   ~ div .uk-card-body {
+    //     padding-left: 0;
+    //   }
+    // }
   }
 
   .uk-lead-header {
-    font-size: 1.125rem;
-    color: #4d555d;
+    font-size: 1.0625rem;
+    // color: #4d555d;
   }
 
-  .uk-section-page-title, .uk-background-primary-xlight {
-    background: $primary-background-xlight;
-  }
+  // .uk-section-page-title, .uk-background-primary-xlight {
+  //   background: $primary-background-xlight;
+  // }
 
   // .uk-filter-subnav {
   //   h5 
@@ -464,9 +478,9 @@
     margin-bottom: 10px;
   }
 
-  .text-gray {
-    color: #555;
-  }
+  // .text-gray {
+  //   // color: #555;
+  // }
 
   // .hvr-forward {
   //     display: inline-block;

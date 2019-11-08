@@ -44,7 +44,7 @@ layout: default
                         {% endfor %}
                     </ul>
                 </div>
-                <div class="filter-tool uk-child-width-1-2@s uk-child-width-1-3@m" data-uk-grid>
+                <div class="filter-tool uk-child-width-1-2@s uk-child-width-1-3@m uk-grid-match" data-uk-grid>
                     {% assign tools = site.tools | reverse %}
                     {% for tool in tools  %}
                         <div{% if tool.mode %} data-mode="{{ tool.mode | join: " " }}"{% endif %}{% if tool.scale %} data-scale="{{ tool.scale | join: " " }}"{% endif %}{% if tool.terms %} data-terms="{{ tool.terms | join: " " }}"{% endif %}{% if tool.type %} data-type="{{ tool.type | join: " " }}"{% endif %}{% if tool.target %} data-target="{{ tool.target | join: " " }}"{% endif %}>
@@ -57,7 +57,7 @@ layout: default
                                 <div class="uk-card-header">
                                     <h3 class="uk-card-title">{{ tool.title }}</h3>
                                 </div>
-                                <div class="uk-card-body uk-text-small text-gray">
+                                <div class="uk-card-body uk-text-small">
                                     <div class="tool-content-{{ forloop.index }}">
                                         {% assign card_excerpt = site.tool.excerpt_length %}
                                         {{ tool.content | truncate: card_excerpt }}
@@ -78,7 +78,7 @@ layout: default
                                         <li>
                                             <a class="uk-accordion-title" href="#">{{ site.data.translation[site.lang].tool_type | default: "Categorization" }}</a>
                                             <div class="uk-accordion-content">
-                                                <ul class="uk-list list-small uk-text-small text-gray">
+                                                <ul class="uk-list list-small uk-text-small">
                                                     {% for category in site.data.navigation_tools %}
                                                         {% if tool[category.tag] %}
                                                             {% assign i = 0 %}
@@ -99,7 +99,7 @@ layout: default
                                         </li>
                                     </ul>                                    
                                     <!-- <h5 class="margin-xsmall-bottom">{{ site.data.translation[site.lang].tool_type | default: "Categorization" }}</h5>
-                                    <ul class="uk-list list-small uk-text-small text-gray">
+                                    <ul class="uk-list list-small uk-text-small">
                                         {% for category in site.data.navigation_tools %}
                                             {% if tool[category.tag] %}
                                                 {% assign i = 0 %}
@@ -118,7 +118,7 @@ layout: default
                                     </ul> -->
                                 </div>
                                 {% if tool.contact %}
-                                <div class="uk-card-footer uk-text-small text-gray">
+                                <div class="uk-card-footer uk-text-small">
                                     <ul data-uk-accordion>
                                         <li>
                                             <a class="uk-accordion-title" href="#">{{ site.data.translation[site.lang].contact | default: "Contact" }}</a>
@@ -156,7 +156,7 @@ layout: default
                                             {{ site.data.translation[site.lang].contact_email | default: "Email" }}: <a class="uk-link-text" href="mailto:{{ tool.contact.email }}">{{ tool.contact.email }}</a>
                                         {% endif %}
                                     </address> -->
-                                <div class="uk-card-footer uk-text-small text-gray">
+                                <div class="uk-card-footer uk-text-small">
                                     {% if tool.contact.url %}
                                         <div class="uk-text-center uk-margin-small-top uk-margin-small-bottom">
                                             <a class="uk-button uk-button-primary-outline uk-button-small" href="{{ tool.contact.url }}" target="_blank"><span data-uk-icon="link"></span> {{ site.data.translation[site.lang].tool_link | default: "Website" }}</a>

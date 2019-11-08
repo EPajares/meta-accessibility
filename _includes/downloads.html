@@ -6,7 +6,7 @@
             {% assign domain = site.uploads | absolute_url %}
         {% endif %}
         {% if item.title %}
-          <li class="uk-border-rounded uk-background-default">
+          <li class="uk-border-rounded uk-background-default uk-box-shadow-small">
             <h4 class="uk-margin-small-bottom uk-text-secondary">{{ item.title }}</h4>
             <div>
               {% for download in item.downloads %}

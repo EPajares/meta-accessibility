@@ -2,20 +2,28 @@
 // ========================================================================
 
 // Color
-$global-color:                                  #333;       // TUM Black
-$global-muted-color:                            #888; //#b3b3b3;    // TUM Gray text
+// $global-color:                                  #333;       // TUM Black
 $global-primary-background:                     #3070B3;    // TUM Web blue
-$global-secondary-background:                   #222;
 $global-warning-background:                     #E37222;    // TUM Orange
 $global-success-background:                     #A2AD00;    // TUM Green
 $global-danger-background:                      #f0506e;
-$primary-background-xlight:                     lighten($global-primary-background, 52%);
+$desaturated-primary-background:                desaturate($global-primary-background, 37%);
+$global-secondary-background:                   darken($desaturated-primary-background, 30%);
+
+$global-color:                                  darken(desaturate($global-primary-background, 50%), 15%);
+$global-muted-color:                            lighten(desaturate($global-primary-background, 50%), 5%); //#b3b3b3;    // TUM Gray text
+
+
+$primary-background-xlight:                     lighten($desaturated-primary-background, 53%);
 
 $global-link-color:                             $global-primary-background;
 $base-link-hover-color:                         $global-secondary-background;
 // $link-muted-hover-color:                        $global-color;
 $inverse-global-color:                          #fff;
 $inverse-global-muted-color:                    rgba($inverse-global-color, 0.7);
+
+$global-small-box-shadow:                       0 2px 8px lighten($desaturated-primary-background, 49%);
+$global-medium-box-shadow:                      0 5px 15px lighten($desaturated-primary-background, 49%);
 
 // Font
 $global-font-family:                            system-ui;
@@ -27,7 +35,9 @@ $global-font-family:                            system-ui;
 // $xsmall-font-size:                              0.8125rem;
 // $heading-primary-font-size:                     2.875rem;
 // $heading-primary-font-size-m:                   3.75rem;
-$heading-small-font-size-m:                      3.5rem;   // 3.25rem / 52px
+// $heading-small-font-size-m:                      3.5rem;   // 3.25rem / 52px
+$text-small-line-height:                        1.6;
+$text-secondary-color:                          darken(desaturate($global-primary-background, 50%), 25%);
 
 $base-heading-font-weight:                      500;
 $base-heading-color:                            $global-primary-background;
@@ -37,12 +47,12 @@ $text-lead-font-size:                           1.125rem;
 // $text-lead-color:                               $global-muted-color;
 
 // Borders
-// $global-border:                                 #e5e5e5;
+$global-border:                                 lighten($desaturated-primary-background, 45%);
 // $border-light:                                  #ebecee;
 $border-xlight:                                 #fafafa;
 
 // Border radius
-$border-rounded-border-radius:                  4px;
+// $border-rounded-border-radius:                  4px;
 // $border-radius-small:                           8px;
 // $border-radius-medium:                          12px;
 // $border-radius-large:                           16px;
@@ -95,7 +105,7 @@ $container-large-max-width:                     1400px;
 // $label-padding-vertical:                        2px;
 
 // Navbar
-$navbar-background:                             $primary-background-xlight; //$global-primary-background;
+$navbar-background:                             #fff; //$global-primary-background;
 $navbar-nav-item-color:                         $global-color;
 $navbar-nav-item-hover-color:                   $global-primary-background;
 $navbar-nav-item-active-color:                  $global-primary-background;
@@ -135,12 +145,13 @@ $subnav-item-text-transform:                    none;
 
 // Card
 $card-title-font-size:                          1.25rem;
+// $card-default-box-shadow:                       $global-medium-box-shadow !default;
 
 // $card-small-body-padding-horizontal:            25px;
 // $card-small-body-padding-vertical:              25px;
 // $card-body-padding-vertical-l:                  50px;
 // $card-default-color:                            $global-muted-color;
-// $card-default-title-color:                      $global-color;
+$card-default-title-color:                      $text-secondary-color;
 
 // Offcanvas
 $offcanvas-bar-color-mode:                      dark;
@@ -150,7 +161,7 @@ $offcanvas-bar-width:                           320px;
 // Accordion
 // $accordion-item-margin-top:                     16px;
 // $accordion-title-font-size:                     $global-medium-font-size;
-// $accordion-title-color:                         $global-primary-background;
+$accordion-title-color:                         $text-secondary-color;
 // $accordion-title-hover-color:                   $global-primary-background;
 // $accordion-content-margin-top:                  16px;
 // $accordion-icon-color:                          $global-primary-background;

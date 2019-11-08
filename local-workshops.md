@@ -28,7 +28,7 @@ width: expand
   </div>
 </div>
 
-<div class="uk-section uk-background-primary-xlight">
+<div class="uk-section">
   <div class="uk-container uk-container-small">
     <div  class="uk-text-center">
       <h2>Workshop Protocol</h2>

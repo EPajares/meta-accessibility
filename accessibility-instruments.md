@@ -42,7 +42,7 @@ width: expand
   </div>
 </div>
 
-<div class="uk-section uk-background-primary-xlight">
+<div class="uk-section">
   <div class="uk-container uk-container-small">
     <h2 class="uk-text-center">All the characteristics of each instrument have been summarized below.</h2>
     {% include downloads.html data="downloads-accessibility-instruments" %}
