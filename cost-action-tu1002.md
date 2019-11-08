@@ -4,7 +4,7 @@ subtitle: Collecting accessibility instruments and improving their usability for
 width: expand
 ---
 
-<div class="uk-section uk-padding-remove-bottom">
+<div class="uk-section uk-section-small uk-padding-remove-bottom">
   <div class="uk-container">
     {% include subnav.html data="subnav-cost-action" %}
   </div>
@@ -12,33 +12,36 @@ width: expand
 
 <div class="uk-section">
   <div class="uk-container">
-    <div class="uk-card uk-card-default uk-clip uk-border-rounded uk-grid-collapse uk-child-width-1-2@m" data-uk-grid>
-      <div class="uk-card-media-left uk-cover-container">
-        <iframe
-          src="https://www.youtube-nocookie.com/embed/Wop5mRtMdW0?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1"
-          width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive></iframe>
-      </div>
-      <div class="uk-flex uk-flex-middle">
-        <div class="uk-card-body">
-          <h3 class="uk-card-title">Cecília Silva at ESOF 2012</h3>
-          <div>
-            Dr Cecília Silva explains what are the goals of the COST Action she chairs - TU1002 'Accessibility instruments
-            for planning practice in Europe'.
+    <div class="uk-child-width-1-2@m uk-grid-match" data-uk-grid>
+      <div>
+        <div class="uk-card uk-card-default uk-clip uk-border-rounded">
+          <div class="uk-card-media-top uk-cover-container">
+            <iframe
+              src="https://www.youtube-nocookie.com/embed/Wop5mRtMdW0?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1"
+              width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive></iframe>
+          </div>
+          <div class="uk-card-body">
+            <h3 class="uk-card-title">Cecília Silva at ESOF 2012</h3>
+            <div>
+              Dr Cecília Silva explains what are the goals of the COST Action she chairs - TU1002 'Accessibility instruments
+              for planning practice in Europe'.
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="uk-card uk-card-default uk-clip uk-border-rounded uk-grid-collapse uk-child-width-1-2@m uk-margin-large-top" data-uk-grid>
-      <div class="uk-flex-last@s uk-card-media-right uk-cover-container">
-        <iframe
-          src="https://www.youtube-nocookie.com/embed/FMndvclQgpQ?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1"
-          width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive></iframe>
-      </div>
-      <div class="uk-flex uk-flex-middle">
-        <div class="uk-card-body">
-          <h3 class="uk-card-title">COST TU1002 Accessibility Instruments for Planning Practice</h3>
-          <div>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      <div>
+        <div>
+          <div class="uk-card uk-card-default uk-clip uk-border-rounded">
+            <div class="uk-flex-last@s uk-card-media-right uk-cover-container">
+              <iframe
+                src="https://www.youtube-nocookie.com/embed/FMndvclQgpQ?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1"
+                width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive></iframe>
+            </div>
+            <div class="uk-card-body">
+              <h3 class="uk-card-title">COST TU1002 Accessibility Instruments for Planning Practice</h3>
+              <div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -46,7 +49,7 @@ width: expand
   </div>
 </div>
 
-<div class="uk-section">
+<div class="uk-section uk-section-default">
   <div class="uk-container">
     <div class="uk-child-width-expand@s" data-uk-grid>
       <div>

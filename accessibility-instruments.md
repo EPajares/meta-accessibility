@@ -4,17 +4,17 @@ subtitle: This section covers the 24 accessibility instruments reviewed in this 
 width: expand
 ---
 
-<div class="uk-section uk-padding-remove-bottom">
+<div class="uk-section uk-section-small uk-padding-remove-bottom">
   <div class="uk-container">
     {% include subnav.html data="subnav-cost-action" %}
   </div>
 </div>
 
-<div class="uk-section">
+<div class="uk-section uk-padding-remove-bottom">
   <div class="uk-container">
     <div class="uk-child-width-expand@m uk-grid-large uk-grid-match" data-uk-grid>
       <div>
-        <div class="uk-card uk-card-default-">
+        <div class="uk-card uk-card-default uk-clip uk-border-rounded">
           <div class="uk-card-media-top">
             <img src="{{ site.uploads | absolute_url }}main-motivation-cor.png" alt="Main motivation">
           </div>
@@ -26,7 +26,7 @@ width: expand
         </div>
       </div>
       <div>
-        <div class="uk-card uk-card-default-">
+        <div class="uk-card uk-card-default uk-clip uk-border-rounded">
           <div class="uk-card-media-top">
             <img src="{{ site.uploads | absolute_url }}planning-goal-cor.png" alt="Planning goal">
           </div>

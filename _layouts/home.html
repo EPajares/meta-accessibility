@@ -98,24 +98,6 @@ layout: default
                                             </div>
                                         </li>
                                     </ul>                                    
-                                    <!-- <h5 class="margin-xsmall-bottom">{{ site.data.translation[site.lang].tool_type | default: "Categorization" }}</h5>
-                                    <ul class="uk-list list-small uk-text-small">
-                                        {% for category in site.data.navigation_tools %}
-                                            {% if tool[category.tag] %}
-                                                {% assign i = 0 %}
-                                                <li>
-                                                    <span class="text-500">{{ category.title }}: </span>
-                                                    {%- for item in category.tools -%}
-                                                        {%- if tool[category.tag] contains item.tag -%}
-                                                            {%- if i > 0 -%}, {% endif -%}
-                                                            {{- item.title -}}
-                                                            {% assign i = i | plus: 1 %}
-                                                        {%- endif -%}
-                                                    {% endfor %}
-                                                </li>
-                                            {% endif %}
-                                        {% endfor %}
-                                    </ul> -->
                                 </div>
                                 {% if tool.contact %}
                                 <div class="uk-card-footer uk-text-small">
@@ -141,21 +123,6 @@ layout: default
                                         </li>
                                     </ul>   
                                 </div>                                 
-                                    <!-- <h5 class="margin-xsmall-bottom">{{ site.data.translation[site.lang].contact | default: "Contact" }}</h5>
-                                    <address>
-                                        {% if tool.contact.name %}
-                                            {{ tool.contact.name }}<br>
-                                        {% endif %}
-                                        {% if tool.contact.address %}
-                                            {{ tool.contact.address }}<br>
-                                        {% endif %}
-                                        {% if tool.contact.phone %}
-                                            {{ site.data.translation[site.lang].contact_phone | default: "Phone" }}: <a href="tel:{{ tool.contact.phone }}">{{ tool.contact.phone }}</a><br>
-                                        {% endif %}
-                                        {% if tool.contact.email %}
-                                            {{ site.data.translation[site.lang].contact_email | default: "Email" }}: <a class="uk-link-text" href="mailto:{{ tool.contact.email }}">{{ tool.contact.email }}</a>
-                                        {% endif %}
-                                    </address> -->
                                 <div class="uk-card-footer uk-text-small">
                                     {% if tool.contact.url %}
                                         <div class="uk-text-center uk-margin-small-top uk-margin-small-bottom">

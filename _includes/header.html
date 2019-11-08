@@ -17,7 +17,7 @@
         <div class="uk-width-expand@m">
           {% if page.header.hero_image %}
           <div class="hero-image">
-            <img src="{{ site.uploads | absolute_url }}{{ page.header.hero_image }}" alt="Hero">
+            <img src="{{ site.uploads | absolute_url }}{{ page.header.hero_image }}" alt="{{ page.header.title }}">
           </div>
           {% endif %}
         </div>
