@@ -40,7 +40,7 @@
   - title: Consultancy service
     tag: consultancy
 
-- title: Categorization 
+- title: Tool type 
   tag: type
   filter: true
   tools: 
