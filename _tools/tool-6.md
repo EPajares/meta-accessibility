@@ -1,6 +1,6 @@
 ---
 title: GOAT
-image: goat.png
+image: tools/goat.png
 contact:
     name: Technical University of Munich - Chair of Urban Structure and Transport Planning
     address: | 

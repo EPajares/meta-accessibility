@@ -20,7 +20,11 @@ target: public
 ```
 
 #### Image
-Enter a full URL to an external image (including the `http` part) or upload the image to `uploads` folder and specify only image file name e.g. `image: goat.png`.
+Enter a full URL to an external image (including the `http` part) or upload the image to `uploads` folder and specify only image file name e.g. `image: favicon.png`.
+
+##### Tool images
+Upload tool images to `uploads/tools/` folder to keep them saparate for better organization and prefix image filename with `tools/` e.g. `tools/accessibility_atlas.jpg`. Optimal tool image size is 620px x 400px.
+
 
 #### Categorization tags 
 For reference of all available tags see `_data/navigation_tools.yml` file. Enter multiple tags as `mode: [walking, cycling]`.

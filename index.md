@@ -11,6 +11,6 @@ header:
   title: Effective Accessibility Planning
   subtitle: Explore a wide range of accessibility instruments.
   cta: 
-    url: '#'
+    url: 'contact/'
     text: Request To Add Tool
 ---
