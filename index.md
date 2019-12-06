@@ -8,9 +8,9 @@ header:
   background:
   color: 
   hero_image: header-home-1.svg
-  title: Effective Accessibility Planning
-  subtitle: Explore a wide range of accessibility instruments.
+  title: Instruments for Effective Accessibility Planning
+  subtitle: 
   cta: 
-    url: 'contact/'
+    url: 'https://go.tum.de/380084'
     text: Request To Add Tool
 ---

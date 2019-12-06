@@ -3,10 +3,7 @@ title: GOAT
 image: tools/goat.png
 contact:
     name: Technical University of Munich - Chair of Urban Structure and Transport Planning
-    address: | 
-        Arcisstraße 21 
-        Munich 80333
-        Germany
+    address: Munich, Germany
     email: elias.pajares@tum.de
     url: https://open-accessibility.org
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
