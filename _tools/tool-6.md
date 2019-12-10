@@ -8,10 +8,10 @@ contact:
     url: https://open-accessibility.org
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [walking]
-scale: [street,neighborhood]
-terms: open-source
+scale: [street,grid,district]
+terms: [open-access,open-source]
 type: web
 target: [planners,decision-makers,public]
 ---
 
-GOAT stands for Geo Open Accessibility Tool. This web-tool is meant to be open source, interactive, flexible and useful for accessibility planning. It is under development at the Chair for Urban Structure and Transport Planning at TUM. Currently, GOATbeta is designed to model walking accessibility, however frequent enhancements and extensions will be made on a regular basis. At the moment you can test the demo version of GOATbeta for the city of Munich.
+GOAT stands for Geo Open Accessibility Tool. This web-instrument is meant to be open source, interactive, flexible and useful for accessibility planning. It is under development at the Chair for Urban Structure and Transport Planning at TUM. GOAT is designed to model active mobility (e.g. walking, cycling), enhancements and extensions are done on a regular basis. You can transfer GOAT to your area of study or test the demo version for the city of Munich. 

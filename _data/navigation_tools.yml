@@ -14,18 +14,26 @@
   - title: Multi-modal
     tag: multi
 
-- title: Geographical scale
+- title: Spatial unit of analysis
   tag: scale
   filter: true
   tools: 
+  - title: Individual
+    tag: individual
   - title: Street
     tag: street
-  - title: Neighborhood
-    tag: neighborhood
+  - title: Building block
+    tag: building-block
+  - title: Grid
+    tag: grid
+  - title: District
+    tag: district
   - title: Municipal
     tag: municipal
   - title: Regional 
     tag: regional
+  - title: Other
+    tag: other
 
 - title: Terms of use 
   tag: terms
@@ -35,23 +43,25 @@
     tag: open-source
   - title: Open access
     tag: open-access
-  - title: Proprietary
-    tag: proprietary
-  - title: Consultancy service
-    tag: consultancy
+  - title: Closed source
+    tag: closed
+  - title: Other
+    tag: other
 
 - title: Tool type 
   tag: type
   filter: true
   tools: 
-  - title: Web Tool
+  - title: Web instrument
     tag: web
-  - title: Standalone Software
-    tag: software
+  - title: Desktop instrument
+    tag: desktop
   - title: Software extension
     tag: extension
   - title: Guideline
     tag: guideline
+  - title: Other
+    tag: other
 
 - title: Target group 
   tag: target
@@ -59,9 +69,13 @@
   tools: 
   - title: Planners
     tag: planners
-  - title: Decision makers
+  - title: Academia
+    tag: academia
+  - title: Political decision makers
     tag: decision-makers
-  - title: Real-estate developers
-    tag: real-estate
-  - title: Public 
-    tag: public
+  - title: Retail/Real-estate developers
+    tag: developers
+  - title: Citizen 
+    tag: citizen
+  - title: Other
+    tag: other
