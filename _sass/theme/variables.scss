@@ -35,10 +35,10 @@ $global-font-family:                            system-ui;
 // $heading-primary-font-size-m:                   3.75rem;
 // $heading-small-font-size-m:                     3.25rem / 52px
 $text-small-line-height:                        1.6;
-$text-secondary-color:                          darken(desaturate($global-primary-background, 50%), 25%);
+$text-secondary-color:                          #111;
 
 $base-heading-font-weight:                      500;
-$base-heading-color:                            $global-primary-background;
+$base-heading-color:                            $global-secondary-background;
 $text-lead-font-size:                           1.125rem;
 
 // Borders
@@ -61,13 +61,18 @@ $button-warning-hover-background:               darken($button-warning-backgroun
 $button-success-background:                     $global-success-background;
 $button-success-hover-background:               darken($button-success-background, 5%);
 
+// Container
 $container-max-width:                           1100px;
 $container-large-max-width:                     1400px;
+
+// Logo
+$logo-color:                                    $global-secondary-background;
+$logo-hover-color:                              $global-secondary-background;
 
 
 // Navbar
 $navbar-background:                             #fff;
-$navbar-nav-item-color:                         $global-color;
+$navbar-nav-item-color:                         $global-secondary-background;
 $navbar-nav-item-hover-color:                   $global-primary-background;
 $navbar-nav-item-active-color:                  $global-primary-background;
 // $navbar-nav-item-font-size:                     0.9375rem;
@@ -84,6 +89,7 @@ $navbar-dropdown-nav-item-hover-color:          $global-primary-background;
 $navbar-dropdown-nav-item-active-color:         $global-primary-background;
 
 // Nav
+$nav-default-item-color:                        $global-color;
 $nav-default-item-hover-color:                  $global-primary-background;
 $nav-default-item-active-color:                 $global-primary-background;
 
@@ -104,6 +110,7 @@ $offcanvas-bar-width:                           320px;
 
 // Accordion
 $accordion-title-color:                         $text-secondary-color;
+$accordion-title-hover-color:                   $text-secondary-color;
 $internal-accordion-open-image:                 "data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolyline fill='none' stroke='#000' stroke-width='1.03' points='4 13 10 7 16 13' /%3E%3C/svg%3E";
 $internal-accordion-close-image:                "data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolyline fill='none' stroke='#000' stroke-width='1.03' points='16 7 10 13 4 7' /%3E%3C/svg%3E";
 

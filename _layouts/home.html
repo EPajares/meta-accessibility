@@ -83,7 +83,7 @@ layout: default
                                                         {% if tool[category.tag] %}
                                                             {% assign i = 0 %}
                                                             <li>
-                                                                <span class="text-500">{{ category.title }}: </span>
+                                                                <span class="uk-text-secondary text-500">{{ category.title }}: </span>
                                                                 {%- for item in category.tools -%}
                                                                     {%- if tool[category.tag] contains item.tag -%}
                                                                         {%- if i > 0 -%}, {% endif -%}
