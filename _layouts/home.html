@@ -116,7 +116,7 @@ layout: default
                                                         {{ site.data.translation[site.lang].contact_phone | default: "Phone" }}: <a href="tel:{{ tool.contact.phone }}">{{ tool.contact.phone }}</a><br>
                                                     {% endif %}
                                                     {% if tool.contact.email %}
-                                                        {{ site.data.translation[site.lang].contact_email | default: "Email" }}: <a class="uk-link-text" href="mailto:{{ tool.contact.email }}">{{ tool.contact.email }}</a>
+                                                        {{ site.data.translation[site.lang].contact_email | default: "Email" }}: <a href="mailto:{{ tool.contact.email }}">{{ tool.contact.email }}</a>
                                                     {% endif %}
                                                 </address>
                                             </div>
