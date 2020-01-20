@@ -1,20 +1,17 @@
 ---
-title: Erreichbarkeitsportal
-image: tools/erreichbarkeitsportal.png
+title: TUM Accessibility Atlas
+image: tools/tum-accessibility-atlas.png
 contact:
-    name: Hamburg University of Technology - Institute for Transport Planning and Logistics  
-    address: Hamburg, Germany
-    email: marcus.peter@tuhh.de
-    url:  http://geoportal.metropolregion.hamburg.de/mrh_erreichbarkeitsanalysen/#  
+    name: Technical University of Munich - Chair of Urban Structure and Transport Planning
+    address: Munich, Germany
+    email: benjamin.buettner@tum.de
+    url: https://www.bgu.tum.de/en/sv/homepage/
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [walking,cycling,public,motorized]
-scale: [grid]
-terms: open-access
-type: web
-target: [academia,citizen,decision-makers,developers,planners]
+scale: [individual,street,district,municipal]
+terms: [closed]
+type: [desktop]
+target: [planners,academia,decision-makers,developers,citizen]
 ---
 
-A publicly available web page that includes around 200 accessibility indicators in the Hamburg Metropolitan Region (100-meter and 500-meter grid). The analyses consists of distance, cumulative as well as potential measures for all modes of transport. The web instrument also includes 25 different types of destinations including schools, supermarkets and jobs. What can you do? 
-- create your own maps 
-- classify accessibility on a 100-meter and 500-meter grid 
-- export all results available as shape files 
+The TUM Accessibility Atlas is a multi-modal GIS-based instrument specifically developed for decision-making in the Munich Metropolitan Region. Hence, thematic datasets and measures (e.g. monetary costs, carbon emissions) were added to ensuring the ability to tackle the latest planning issues. The accessibility analysis ranges from regional (e.g. car and public transport) to local neighborhood scale taking into account active mobility (walking and cycling). The aim is to create a suitable instrument which can be used by a wide range of stakeholders (e.g. practitioners, decision-makers, citizens) raising awareness of the implications of their actions (e.g. land-use and transport interventions or individual mobility behavior).
