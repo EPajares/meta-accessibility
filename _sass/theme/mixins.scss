@@ -267,4 +267,38 @@
     margin-bottom: 10px;
   }
 
+  .uk-nav-tools {
+    > li:not(.uk-active) {
+      .uk-reset-group {
+        display: none;
+      }
+    }
+
+    > .uk-active {
+      font-weight: 500;
+    }
+
+    > li {
+      position: relative;
+
+      > a {
+        margin-right: 30px;
+      }
+
+      > span {
+        position: absolute;
+        right: 0;
+        top: 3px;
+
+        .uk-icon-link {
+          color: $global-primary-background;
+
+          &:hover {
+            color: $global-secondary-background
+          }
+        }
+      }
+    }
+  }
+
 }
