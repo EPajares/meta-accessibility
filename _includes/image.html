@@ -9,7 +9,7 @@
     {% if include.caption %}<figcaption data-uk-grid class="uk-flex-right"><span class="uk-width-auto">{{ include.caption }}</span></figcaption>{% endif %}
 </figure>
 {% else %}
-<figure>
+<figure{% if include.align %} class="uk-align-{{ include.align }}"{% endif %}>
     {% if include.url %}
         <a href="{{ include.url }}">
     {% endif %}

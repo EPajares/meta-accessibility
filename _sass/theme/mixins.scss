@@ -263,13 +263,13 @@
     }
 
     p, ul, ol, dl, pre, address, fieldset {
-      margin-bottom: $global-margin;
+      margin-bottom: $global-margin * 2;
     }
 
     figure:not(.uk-align-left):not(.uk-align-right),
     > p > img:not(.uk-align-left):not(.uk-align-right) {
-      margin-top: $global-margin * 1.8;
-      margin-bottom: $global-margin * 1.8;
+      margin-top: $global-margin * 2;
+      margin-bottom: $global-margin * 2;
     }
 
     .uk-heading-divider {
