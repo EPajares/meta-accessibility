@@ -18,7 +18,7 @@ layout: default
                         <ul class="uk-nav uk-nav-default uk-nav-tools">
                             {% for tool in section.tools %}
                                 <li data-uk-filter-control="filter: [data-{{ section.tag | slugify }}*='{{ tool.tag | slugify }}']; group: {{ section.tag | slugify }}"><a href="#">{{ tool.title }}</a>
-                                    <span class="uk-reset-group" data-uk-filter-control="group: {{ section.tag | slugify }}"><a href="#" class="uk-icon-link" data-uk-icon="icon: close; ratio: 0.9"></a></span>
+                                    <span class="uk-reset-group" data-uk-filter-control="group: {{ section.tag | slugify }}"><a href="#">{% include close.svg %}</a></span>
                                 </li>
                             {% endfor %}
                         </ul>
