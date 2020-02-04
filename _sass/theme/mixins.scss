@@ -227,6 +227,81 @@
   font-weight: 700;
 }
 
+@mixin hook-article-misc(){
+  .article-content {
+    font-size: 1.0625rem;;
+    line-height: 1.7;
+
+    .uk-slideshow {
+      margin-top: $global-medium-margin * 1.1;
+      margin-bottom: $global-medium-margin * 1.3;
+    }
+    
+    figure {
+      img + div .uk-overlay-icon {
+        color: rgba(255, 255, 255, 0);
+      }
+      img:hover + div .uk-overlay-icon {
+        color: rgba(255, 255, 255, 1);
+      }
+    }
+
+    blockquote {
+      border-left: solid 2px #e2e2e2;
+      padding-left: $base-margin-vertical;
+      line-height: 1.7;
+      margin-top: $global-margin * 1.6;
+      margin-bottom: $global-margin * 1.6;
+    }
+
+    * + h1, * + .uk-h1, * + h2, * + .uk-h2, * + h3, * + .uk-h3, * + h4, * + .uk-h4, * + h5, * + .uk-h5, * + h6, * + .uk-h6 {
+      margin-top: $global-medium-margin * 1.35;
+    }
+    
+    h1, .uk-h1, h2, .uk-h2, h3, .uk-h3, h4, .uk-h4, h5, .uk-h5, h6, .uk-h6 {
+      margin-bottom: $global-margin;
+    }
+
+    p, ul, ol, dl, pre, address, fieldset {
+      margin-bottom: $global-margin;
+    }
+
+    figure:not(.uk-align-left):not(.uk-align-right),
+    > p > img:not(.uk-align-left):not(.uk-align-right) {
+      margin-top: $global-margin * 1.8;
+      margin-bottom: $global-margin * 1.8;
+    }
+
+    .uk-heading-divider {
+      margin-bottom: $global-medium-margin;
+    }
+
+    > #map {
+      margin-bottom: $global-medium-margin * .9;
+    }
+    
+    > *:last-child {
+      margin-bottom: 0;
+    }
+
+  }
+
+  figcaption.uk-overlay {
+      padding: 7px 12px;
+  }
+
+  .uk-section {
+      figure {
+          margin-top: 0;
+      }
+  }
+
+  .uk-container + .uk-container {
+    margin-top: $global-medium-margin;
+  }
+
+}
+
 @mixin hook-heading-small(){
   font-weight: 700;
 }
