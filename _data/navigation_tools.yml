@@ -11,8 +11,8 @@
     tag: public
   - title: Motorized Transport
     tag: motorized
-  - title: Multi-modal
-    tag: multi
+  - title: Inter-modal
+    tag: inter
 
 - title: Spatial unit of analysis
   tag: scale
