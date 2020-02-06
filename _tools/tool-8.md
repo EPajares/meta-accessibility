@@ -7,8 +7,8 @@ contact:
     email: benjamin.buettner@tum.de
     url: https://www.bgu.tum.de/en/sv/homepage/
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
-mode: [walking,cycling,public,motorized]
-scale: [individual,street,district,municipal]
+mode: [walking,cycling,public,motorized,inter]
+scale: [street,district,municipal]
 terms: [closed]
 type: [desktop]
 target: [planners,academia,decision-makers,developers,citizen]

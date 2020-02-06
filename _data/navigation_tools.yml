@@ -18,9 +18,7 @@
   tag: scale
   filter: true
   tools: 
-  - title: Individual
-    tag: individual
-  - title: Street
+  - title: Street level
     tag: street
   - title: Building block
     tag: building-block
@@ -28,10 +26,10 @@
     tag: grid
   - title: District
     tag: district
+  - title: Traffic zone
+    tag: zone
   - title: Municipal
     tag: municipal
-  - title: Regional 
-    tag: regional
   - title: Other
     tag: other
 
