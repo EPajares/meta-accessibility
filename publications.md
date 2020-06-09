@@ -17,6 +17,8 @@ Büttner, B., Kinigadner, J., Ji, C., Wright, B., & Wulfhorst, G. (2018). The TU
 
 Büttner, B. (2017). Consequences of sharp increases in mobility costs on accessibility: Suggestions for individual and public development strategies. Chair of Urban Structure and Transport Planning. [https://mediatum.ub.tum.de/1324977](https://mediatum.ub.tum.de/1324977) 
 
+te Brömmelstroet, M., Skou Nicolaisen, M., Büttner, B., & Ferreira, A. (2017). Experiences with transportation models: An international survey of planning practices. Transport Policy, 58, 10–18. [https://doi.org/10.1016/j.tranpol.2017.04.007](https://doi.org/10.1016/j.tranpol.2017.04.007)
+
 Wulfhorst, G., Büttner, B., & Ji, C. (2017). The TUM Accessibility Atlas as a tool for supporting policies of sustainable mobility in metropolitan regions. Transportation Research Part A: Policy and Practice. [https://doi.org/10.1016/j.tra.2017.04.012](https://doi.org/10.1016/j.tra.2017.04.012)
 
 
@@ -38,7 +40,7 @@ Büttner, B.; Zhao, J.; Thierstein, A.; Wulfhorst, G.; Förster, A.; Sterzer, L.
 
 ### 2013
 
-Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro
+[Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro](Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro)
 
 ### 2012
 
