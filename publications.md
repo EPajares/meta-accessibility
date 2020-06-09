@@ -33,3 +33,7 @@ Büttner, B.; Wulfhorst, G.: MORECO II: Recommendations for decision-makers to r
 
 Büttner, B.; Zhao, J.; Thierstein, A.; Wulfhorst, G.; Förster, A.; Sterzer, L.: When growth stresses development. Interdependencies between housing, employment and mobility in the Munich metropolitan region. RSAI 10th World Congress, Proceedings, Bangkok
 
+### 2013
+
+([Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro])
+
