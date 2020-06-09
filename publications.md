@@ -15,4 +15,4 @@ Büttner, B., Kinigadner, J., Ji, C., Wright, B., & Wulfhorst, G. (2018). The TU
 
 ### 2017
 
-Büttner, B. (2017). Consequences of sharp increases in mobility costs on accessibility: Suggestions for individual and public development strategies. Chair of Urban Structure and Transport Planning. [https://mediatum.ub.tum.de/1324977]
+Büttner, B. (2017). Consequences of sharp increases in mobility costs on accessibility: Suggestions for individual and public development strategies. Chair of Urban Structure and Transport Planning. [https://mediatum.ub.tum.de/1324977] (https://mediatum.ub.tum.de/1324977) 
