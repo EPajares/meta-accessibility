@@ -26,3 +26,10 @@ Büttner, B., Wulfhorst, G. and Evans J.: Ensuring accessibility to daily activi
 Büttner, B.: Sharp increases in mobility costs: A trigger for sustainable mobility. In Wulfhorst, G., Klug, S. (eds.), Sustainable Mobility in Metropolitan Regions – Insights from interdisciplinary research for practice application. Springer.
 
 Büttner, B. and Wulfhorst, G.: The TUM Accessibility Atlas as a tool for fostering decision making processes on sustainable mobility in the metropolitan region of Munich. 14th WCTR 2016, Proceedings. Shanghai.
+
+### 2014
+
+Büttner, B.; Wulfhorst, G.: MORECO II: Recommendations for decision-makers to respond to increasing mobility costs in the Munich region, Munich
+
+Büttner, B.; Zhao, J.; Thierstein, A.; Wulfhorst, G.; Förster, A.; Sterzer, L.: When growth stresses development. Interdependencies between housing, employment and mobility in the Munich metropolitan region. RSAI 10th World Congress, Proceedings, Bangkok
+
