@@ -37,3 +37,13 @@ Büttner, B.; Zhao, J.; Thierstein, A.; Wulfhorst, G.; Förster, A.; Sterzer, L.
 
 Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro
 
+### 2012
+
+Büttner, B.; Franz, S.; Reutter, U.; Wulfhorst, G.: MOR€CO – Mobility and Residential Costs: improving the settlement development in the Transnational Alpine Space Region. REAL CORP 2012, Proceedings, Wien
+
+### 2011
+
+Büttner, B.; Keller, J.; Wulfhorst, G. (2011): Erreichbarkeitsatlas - Grundlagen für die Zukunft der Mobilität in der Metropolregion München. München.
+
+
+
