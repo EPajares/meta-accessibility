@@ -42,6 +42,10 @@ Büttner, B.; Zhao, J.; Thierstein, A.; Wulfhorst, G.; Förster, A.; Sterzer, L.
 
 [Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro](Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro)
 
+[Mercier, A.; Crozet, Y.; Ovtracht, N.; Büttner, B.; Wulfhorst, G.: Stress tests on urban mobility: lessons for public policies. 13th WCTR, Proceedings, Rio de Janeiro](Mercier, A.; Crozet, Y.; Ovtracht, N.; Büttner, B.; Wulfhorst, G.: Stress tests on urban mobility: lessons for public policies. 13th WCTR, Proceedings, Rio de Janeiro)
+
+[Wulfhorst, G.; Büttner, B. (eds.): Transportation Demand Management. Insights from the mobil.TUM 2012 International Scientific Conference on Mobility and Transport. München.](Wulfhorst, G.; Büttner, B. (eds.): Transportation Demand Management. Insights from the mobil.TUM 2012 International Scientific Conference on Mobility and Transport. München.)
+
 ### 2012
 
 Büttner, B.; Franz, S.; Reutter, U.; Wulfhorst, G.: MOR€CO – Mobility and Residential Costs: improving the settlement development in the Transnational Alpine Space Region. REAL CORP 2012, Proceedings, Wien
