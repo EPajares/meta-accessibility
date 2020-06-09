@@ -46,9 +46,13 @@ Büttner, B.; Zhao, J.; Thierstein, A.; Wulfhorst, G.; Förster, A.; Sterzer, L.
 
 [Wulfhorst, G.; Büttner, B. (eds.): Transportation Demand Management. Insights from the mobil.TUM 2012 International Scientific Conference on Mobility and Transport. München.](Wulfhorst, G.; Büttner, B. (eds.): Transportation Demand Management. Insights from the mobil.TUM 2012 International Scientific Conference on Mobility and Transport. München.)
 
+[Priester, R.; Büttner, B.: Tramway renaissance in Munich – Effects of the new Tram 23 on urban structure and mobility behaviour. In: Wulfhorst, G.; Büttner, B. (eds.) (2013): Transportation Demand Management. München](Priester, R.; Büttner, B.: Tramway renaissance in Munich – Effects of the new Tram 23 on urban structure and mobility behaviour. In: Wulfhorst, G.; Büttner, B. (eds.) (2013): Transportation Demand Management. München)
+
 ### 2012
 
 Büttner, B.; Franz, S.; Reutter, U.; Wulfhorst, G.: MOR€CO – Mobility and Residential Costs: improving the settlement development in the Transnational Alpine Space Region. REAL CORP 2012, Proceedings, Wien
+
+Priester, R.; Büttner, B.; Wulfhorst, G.; Nallinger, S: Heipp, G.: Tramlinie 23: Impulsgeber für nachhaltige Siedlungsentwicklung. In: Der Nahverkehr (4/2012)
 
 ### 2011
 
