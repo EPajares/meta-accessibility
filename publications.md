@@ -2,7 +2,6 @@
 title: Publications
 ---
 
-### 2020
 
 ### 2019
 
@@ -11,3 +10,4 @@ Kinigadner, J., Büttner, B., & Wulfhorst, G. (2019). Beer versus bits: CO2-base
 Kinigadner, J., & Büttner, B. (eds. ). (2019). ASTUS CO2 Minimizer Toolbox. Interreg Alpine Space. https://mediatum.ub.tum.de/1542264 
 
 ### 2018
+
