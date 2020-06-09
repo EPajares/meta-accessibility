@@ -16,3 +16,13 @@ Büttner, B., Kinigadner, J., Ji, C., Wright, B., & Wulfhorst, G. (2018). The TU
 ### 2017
 
 Büttner, B. (2017). Consequences of sharp increases in mobility costs on accessibility: Suggestions for individual and public development strategies. Chair of Urban Structure and Transport Planning. [https://mediatum.ub.tum.de/1324977] (https://mediatum.ub.tum.de/1324977) 
+
+### 2016
+
+Büttner, B.: Consequences of Sharp Increases in Mobility Costs on Accessibility: Suggestions for Local and Regional Development Strategies. NECTAR 2015 Conference, Proceedings, Ann Arbor
+
+Büttner, B., Wulfhorst, G. and Evans J.: Ensuring accessibility to daily activities for different population segments with respect to sharp increases in mobility costs. In Geurs, K., Patuelli, R. and Dentinho, T. (eds.), Accessibility, Equity and Efficiency. Challenges for Transport and Public Services. Edward Elgar.
+
+Büttner, B.: Sharp increases in mobility costs: A trigger for sustainable mobility. In Wulfhorst, G., Klug, S. (eds.), Sustainable Mobility in Metropolitan Regions – Insights from interdisciplinary research for practice application. Springer.
+
+Büttner, B. and Wulfhorst, G.: The TUM Accessibility Atlas as a tool for fostering decision making processes on sustainable mobility in the metropolitan region of Munich. 14th WCTR 2016, Proceedings. Shanghai.
