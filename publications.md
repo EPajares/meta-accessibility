@@ -1,7 +1,10 @@
 ---
 title: Publications
 ---
+### 2020
 
+Wenner, F. (2020, forthcoming): Brain Train? – Interrelations of Accessibility Changes through High-
+Speed Rail and Spatial Structure in the Knowledge Economy.
 
 ### 2019
 
