@@ -11,7 +11,7 @@ Kinigadner, J., & Büttner, B. (eds. ). (2019). ASTUS CO2 Minimizer Toolbox. Int
 
 ### 2018
 
-Büttner, B., Kinigadner, J., Ji, C., Wright, B., & Wulfhorst, G. (2018). The TUM Accessibility Atlas: Visualizing Spatial and Socioeconomic Disparities in Accessibility to Support Regional Land-Use and Transport Planning. Networks and Spatial Economics, 18(2), 385–414. [doi.org/10.1007/s11067-017-9378-6](doi.org/10.1007/s11067-017-9378-6)
+Büttner, B., Kinigadner, J., Ji, C., Wright, B., & Wulfhorst, G. (2018). The TUM Accessibility Atlas: Visualizing Spatial and Socioeconomic Disparities in Accessibility to Support Regional Land-Use and Transport Planning. Networks and Spatial Economics, 18(2), 385–414. [doi.org/10.1007/s11067-017-9378-6](https://doi.org/10.1007/s11067-017-9378-6)
 
 ### 2017
 
@@ -46,7 +46,7 @@ Büttner, B.; Zhao, J.; Thierstein, A.; Wulfhorst, G.; Förster, A.; Sterzer, L.
 
 [Wulfhorst, G.; Büttner, B. (eds.): Transportation Demand Management. Insights from the mobil.TUM 2012 International Scientific Conference on Mobility and Transport. München.](https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Veranstaltungen/mobil.TUM_2012/Transportation_Demand_Management_mobil_TUM2012_Book__2_.pdf)
 
-[Priester, R.; Büttner, B.: Tramway renaissance in Munich – Effects of the new Tram 23 on urban structure and mobility behaviour. In: Wulfhorst, G.; Büttner, B. (eds.) (2013): Transportation Demand Management. München](Priester, R.; Büttner, B.: Tramway renaissance in Munich – Effects of the new Tram 23 on urban structure and mobility behaviour. In: Wulfhorst, G.; Büttner, B. (eds.) (2013): Transportation Demand Management. München)
+[Priester, R.; Büttner, B.: Tramway renaissance in Munich – Effects of the new Tram 23 on urban structure and mobility behaviour. In: Wulfhorst, G.; Büttner, B. (eds.) (2013): Transportation Demand Management. München](https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Veranstaltungen/mobil.TUM_2012/Transportation_Demand_Management_mobil_TUM2012_Book__2_.pdf)
 
 ### 2012
 
