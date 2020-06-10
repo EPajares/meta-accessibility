@@ -40,7 +40,7 @@ Büttner, B.; Zhao, J.; Thierstein, A.; Wulfhorst, G.; Förster, A.; Sterzer, L.
 
 ### 2013
 
-[Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro](Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro)
+[Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro](Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro](https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Team/Buettner_Veroeffentlichungen/wctr2013_Vulnerability_Assessment_final.pdf)
 
 [Mercier, A.; Crozet, Y.; Ovtracht, N.; Büttner, B.; Wulfhorst, G.: Stress tests on urban mobility: lessons for public policies. 13th WCTR, Proceedings, Rio de Janeiro](Mercier, A.; Crozet, Y.; Ovtracht, N.; Büttner, B.; Wulfhorst, G.: Stress tests on urban mobility: lessons for public policies. 13th WCTR, Proceedings, Rio de Janeiro)
 
@@ -57,6 +57,3 @@ Priester, R.; Büttner, B.; Wulfhorst, G.; Nallinger, S: Heipp, G.: Tramlinie 23
 ### 2011
 
 Büttner, B.; Keller, J.; Wulfhorst, G. (2011): Erreichbarkeitsatlas - Grundlagen für die Zukunft der Mobilität in der Metropolregion München. München.
-
-
-
