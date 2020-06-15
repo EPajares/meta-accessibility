@@ -7,7 +7,7 @@ navbar:
 header:
   background:
   color: 
-  hero_image: header-home-1.svg
+  hero_image: header.gif
   title: Instruments for Effective Accessibility Planning
   subtitle: 
   cta: 
