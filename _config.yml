@@ -10,7 +10,7 @@ description:
 lang:               en
 
 # Site subpath, e.g. /blog
-baseurl:            "/meta-accessibility"
+baseurl:           
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
