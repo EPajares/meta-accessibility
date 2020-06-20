@@ -12,23 +12,25 @@
   <div
     class="uk-section uk-section-small uk-position-relative{% if page.header.color %} uk-{{ page.header.color | default: 'dark' }}{% endif %}"
     data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; repeat: true">
-    <div class="uk-container uk-container-small">
-        <div>
+    <div class="uk-container{% if page.width %} uk-container-{{page.width}}{% endif %}">
+      <div class="uk-grid-large" data-uk-grid>
+        <div class="uk-width-expand@m">
           {% if page.header.hero_image %}
-          <div class="uk-margin-top">
+          <div class="hero-image">
             <img src="{{ site.uploads | absolute_url }}{{ page.header.hero_image }}" alt="{{ page.header.title }}">
           </div>
           {% endif %}
         </div>
-        <div class="uk-text-center">
+        <div class="uk-width-header uk-flex uk-flex-middle uk-flex-first@m">
           <div>
-            <h1 class="uk-heading-small uk-margin-medium-top">{{ page.header.title }}</h1>
+            <h1 class="uk-heading-small uk-margin-remove-top">{{ page.header.title }}</h1>
             {% if page.header.subtitle %}<p class="uk-lead-header">{{ page.header.subtitle }}</p>{% endif %}
             {% if page.header.cta %}
-              <a href="{{ page.header.cta.url }}" class="uk-button uk-button-primary uk-border-pill uk-margin-small-top">{{ page.header.cta.text }}</a>
+              <a href="{{ page.header.cta.url }}" class="uk-button uk-button-primary-outline uk-border-pill uk-margin-small-top">{{ page.header.cta.text }}</a>
             {% endif %}
           </div>
         </div>          
+      </div>
     </div>
   </div>
 </header>
