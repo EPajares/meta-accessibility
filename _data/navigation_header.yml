@@ -3,7 +3,8 @@ left:
 
 # Navbar right menu navigation links
 right:
-
+  - title: Accessibility instruments
+    url: /
   - title: Publications
     url: /publications/
     # dropdown:
