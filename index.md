@@ -8,7 +8,7 @@ header:
   background:
   color: 
   hero_image: header.gif
-  title: Instruments for Effective Accessibility Planning
+  title: 
   subtitle: 
   cta: 
     url: 'https://go.tum.de/380084'
