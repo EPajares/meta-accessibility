@@ -5,7 +5,7 @@ contact:
     name: Basemap
     address: Guildford, United Kingdom
     email: info@basemap.co.uk  
-    url: www.basemap.co.uk  
+    url: https://www.basemap.co.uk  
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [walking,cycling, motorized, public, inter]
 scale: [street,building-block,grid,district,zone,municipal]
