@@ -311,6 +311,12 @@
     margin-bottom: 0;
   }
 
+  @media (min-width: $breakpoint-medium) {
+    .uk-min-height {
+      min-height: 1260px;
+    }
+  }
+
   .uk-clip {
     overflow: hidden;
   }
