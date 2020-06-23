@@ -19,5 +19,5 @@ and land-use projects. For land-use projects, a population and employment increa
 must be associated with the project along with intersection-specific travel time delays.
 Then the change in auto-based accessibility to jobs is calculated. For transportation
 projects, land-use and transportation patterns before the project are compared with
-land-use and transportation patterns after the project, with a comparison fo the
+land-use and transportation patterns after the project, with a comparison for the
 average per capita job accessibility provided.
