@@ -8,7 +8,7 @@
 title:              META-Accessibility
 description:        On this platform diverse accessibility instruments are collected to foster networking and bridge the gap between research and practice. 
 lang:               en
-img:                /uploads/website_main.png
+img:                uploads/website_main.png
 # Site subpath, e.g. /blog
 baseurl:           
 
