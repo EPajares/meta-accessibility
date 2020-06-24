@@ -38,8 +38,6 @@ Büttner, B. and Wulfhorst, G.: The TUM Accessibility Atlas as a tool for foster
 
 ### 2014
 
-Büttner, B.; Wulfhorst, G.: MORECO II: Recommendations for decision-makers to respond to increasing mobility costs in the Munich region, Munich
-
 Büttner, B.; Zhao, J.; Thierstein, A.; Wulfhorst, G.; Förster, A.; Sterzer, L.: When growth stresses development. Interdependencies between housing, employment and mobility in the Munich metropolitan region. RSAI 10th World Congress, Proceedings, Bangkok
 
 Tamworth Local Plan 2014, [https://www.staffordshire.gov.uk/Transport/transportplanning/District-integrated-transport-strategies/Documents/tamworthaccessibilityappraisal.pdf](https://www.staffordshire.gov.uk/Transport/transportplanning/District-integrated-transport-strategies/Documents/tamworthaccessibilityappraisal.pdf) 
