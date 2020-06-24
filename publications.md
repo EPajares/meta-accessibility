@@ -2,8 +2,8 @@
 title: Publications
 ---
 
-<b>The following list is a collection of publications that was submitted by the tool developers.</b>  
-
+**The following is a collection of references which was submitted by the developers focusing on respective application of their instruments.
+Feel free to add your own references by submitting your instrument [survey](https://go.tum.de/380084) or contacting us via [E-Mail](mailto:benjamin.buettner@tum.de).**
 
 ### 2020
 
