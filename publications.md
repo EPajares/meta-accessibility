@@ -18,6 +18,8 @@ Kinigadner, J., Büttner, B., & Wulfhorst, G. (2019). Beer versus bits: CO2-base
 
 Kinigadner, J., & Büttner, B. (eds. ). (2019). ASTUS CO2 Minimizer Toolbox. Interreg Alpine Space. [https://mediatum.ub.tum.de/1542264](https://mediatum.ub.tum.de/1542264)
 
+Silva, C., Pinto, N., Bertolini, L. (2019). Designing Accessibility Instruments: Lessons on Their Usability for Integrated Land Use and Transport Planning Practices. ISBN 9781138206953
+
 ### 2018
 
 Büttner, B., Kinigadner, J., Ji, C., Wright, B., & Wulfhorst, G. (2018). The TUM Accessibility Atlas: Visualizing Spatial and Socioeconomic Disparities in Accessibility to Support Regional Land-Use and Transport Planning. Networks and Spatial Economics, 18(2), 385–414. [doi.org/10.1007/s11067-017-9378-6](https://doi.org/10.1007/s11067-017-9378-6)
@@ -58,12 +60,16 @@ Büttner, B.; Wulfhorst, G.: MORECO II: Recommendations for decision-makers to r
 
 Büttner, B.; Zhao, J.; Thierstein, A.; Wulfhorst, G.; Förster, A.; Sterzer, L.: When growth stresses development. Interdependencies between housing, employment and mobility in the Munich metropolitan region. RSAI 10th World Congress, Proceedings, Bangkok
 
+Brömmelstroet, M.,Silva, C., Bertolini, L. (2014): COST Action TU1002 Assessing Usability of Accessibility Instruments. [Link](../uploads/pdf/Brömmelstroet et al. - 2014 - Assessing usability of accessibility instruments.pdf)
+
 Tamworth Local Plan 2014, [https://www.staffordshire.gov.uk/Transport/transportplanning/District-integrated-transport-strategies/Documents/tamworthaccessibilityappraisal.pdf](https://www.staffordshire.gov.uk/Transport/transportplanning/District-integrated-transport-strategies/Documents/tamworthaccessibilityappraisal.pdf) 
 
 ### 2013
 
 Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro. [https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Team/Buettner_Veroeffentlichungen/wctr2013_Vulnerability_Assessment_final.pdf](https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Team/Buettner_Veroeffentlichungen/wctr2013_Vulnerability_Assessment_final.pdf)
 
+### 2012
+Hull, A. ,Silva, C., Bertolini, L. (2012): Accessibility Instruments for Planning Practice in Europe. [Link](../uploads/pdf/Hull et al. - 2012 - Accessibility Instruments for Planning Practice.pdf)
 ### 2011
 
 Büttner, B.; Keller, J.; Wulfhorst, G. (2011): Erreichbarkeitsatlas - Grundlagen für die Zukunft der Mobilität in der Metropolregion München. München.
