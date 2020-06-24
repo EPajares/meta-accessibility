@@ -1,20 +1,17 @@
 ---
-title: Erreichbarkeitsportal
-image: tools/erreichbarkeitsportal.png
+title: TRACC  
+image: tools/tracc.png
 contact:
-    name: Hamburg University of Technology - Institute for Transport Planning and Logistics  
-    address: Hamburg, Germany
-    email: marcus.peter@tuhh.de
-    url:  http://geoportal.metropolregion.hamburg.de/mrh_erreichbarkeitsanalysen/#  
+    name: Basemap
+    address: Guildford, United Kingdom
+    email: info@basemap.co.uk  
+    url: https://www.basemap.co.uk  
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
-mode: [walking,cycling,public,motorized]
-scale: [grid]
-terms: open-access
-type: web
-target: [academia,citizen,decision-makers,developers,planners]
+mode: [walking,cycling, motorized, public, inter]
+scale: [street,building-block,grid,district,zone,municipal]
+terms: closed
+type: [desktop]
+target: [planners,academia,decision-makers,developers]
 ---
 
-A publicly available web page that includes around 200 accessibility indicators in the Hamburg Metropolitan Region (100-meter and 500-meter grid). The analyses consists of distance, cumulative as well as potential measures for all modes of transport. The web instrument also includes 25 different types of destinations including schools, supermarkets and jobs. What can you do? 
-- create your own maps 
-- classify accessibility on a 100-meter and 500-meter grid 
-- export all results available as shape files 
+A multi-modal travel accessibility tool that allows editing of network data to produce what-if scenarios and utilises detailed demographic data. Over 500 users worldwide from local to central/federal governments, healthcare and private industry, TRACC has been used to identify key locations for housing, healthcare, transport routes and is used to inform policy. TRACC allows calculations at both local and national level and is commonly used for local government to create accessibility/local plans to inform which areas of a region have poor access and where investment is required. 
