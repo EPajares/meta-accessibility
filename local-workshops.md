@@ -18,7 +18,7 @@ width: expand
           <h3>Locations of Local Workshops</h3>
           You will find the series of qualitative reports from all local workshops developed around Europe and Australia, authored by the participating Work Units (WU). 
           These show how their accessibility instruments (presented in Report 1, see 
-          <a href="http://www.accessibilityplanning.eu/reports/report-1-accessibility-instruments-in-practice/" target="_blank">here</a>) 
+          <a href="/uploads/pdf/Hull et al. - 2012 - Accessibility Instruments for Planning Practice.pdf" target="_blank">here</a>) 
           were used to promote the discussion on usability in planning practice among participating local planning practitioners.
         </div>
       </div>
