@@ -7,7 +7,7 @@ contact:
     email: elias.pajares@tum.de
     url: https://open-accessibility.org
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
-mode: [walking]
+mode: [walking,cycling]
 scale: [street,grid,district]
 terms: [open-access,open-source]
 type: web

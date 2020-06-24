@@ -7,8 +7,8 @@ navbar:
 header:
   background:
   color: 
-  hero_image: header-home-1.svg
-  title: Instruments for Effective Accessibility Planning
+  hero_image: header.gif
+  title: 
   subtitle: 
   cta: 
     url: 'https://go.tum.de/380084'

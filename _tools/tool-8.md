@@ -5,7 +5,7 @@ contact:
     name: Technical University of Munich - Chair of Urban Structure and Transport Planning
     address: Munich, Germany
     email: benjamin.buettner@tum.de
-    url: https://www.bgu.tum.de/en/sv/homepage/
+    url: https://www.bgu.tum.de/en/sv/research-group-accessibility-planning/
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [walking,cycling,public,motorized,inter]
 scale: [street,district,municipal]
