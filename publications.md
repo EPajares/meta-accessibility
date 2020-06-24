@@ -2,8 +2,8 @@
 title: Publications
 ---
 
-<b>The following list is a collection of publications that was submitted by the tool developers.</b>  
-
+**The following is a collection of references which was submitted by the developers focusing on respective application of their instruments.
+Feel free to add your own references by submitting your instrument [survey](https://go.tum.de/380084) or contacting us via [E-Mail](mailto:benjamin.buettner@tum.de).**
 
 ### 2020
 
@@ -63,20 +63,6 @@ Tamworth Local Plan 2014, [https://www.staffordshire.gov.uk/Transport/transportp
 ### 2013
 
 Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increases in mobility costs analysed by means of the vulnerability assessment. 13th WCTR, Proceedings, Rio de Janeiro. [https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Team/Buettner_Veroeffentlichungen/wctr2013_Vulnerability_Assessment_final.pdf](https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Team/Buettner_Veroeffentlichungen/wctr2013_Vulnerability_Assessment_final.pdf)
-
-Mercier, A.; Crozet, Y.; Ovtracht, N.; Büttner, B.; Wulfhorst, G.: Stress tests on urban mobility: lessons for public policies. 13th WCTR, Proceedings, Rio de Janeiro. [https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Team/Buettner_Veroeffentlichungen/wctr2013_StressTests.pdf](https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Team/Buettner_Veroeffentlichungen/wctr2013_StressTests.pdf)
-
-Wulfhorst, G.; Büttner, B. (eds.): Transportation Demand Management. Insights from the mobil.TUM 2012 International Scientific Conference on Mobility and Transport. München. [https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Veranstaltungen/mobil.TUM_2012/Transportation_Demand_Management_mobil_TUM2012_Book__2_.pdf](https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Veranstaltungen/mobil.TUM_2012/Transportation_Demand_Management_mobil_TUM2012_Book__2_.pdf)
-
-Priester, R.; Büttner, B.: Tramway renaissance in Munich – Effects of the new Tram 23 on urban structure and mobility behaviour. In: Wulfhorst, G.; Büttner, B. (eds.) (2013): Transportation Demand Management. München. [https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Veranstaltungen/mobil.TUM_2012/Transportation_Demand_Management_mobil_TUM2012_Book__2_.pdf](https://www.bgu.tum.de/fileadmin/w00blj/sv/PDF/Veranstaltungen/mobil.TUM_2012Transportation_Demand_Management_mobil_TUM2012_Book__2_.pdf)
-
-### 2012
-
-Büttner, B.; Franz, S.; Reutter, U.; Wulfhorst, G.: MOR€CO – Mobility and Residential Costs: improving the settlement development in the Transnational Alpine Space Region. REAL CORP 2012, Proceedings, Wien
-
-Priester, R.; Büttner, B.: Tramway renaissance in Munich – Effects of the new tram 23 on urban structure and mobility behavior. Paper presented at mobil.TUM 2012 International Scientific Conference on Mobility and Transport, Munich
-
-Priester, R.; Büttner, B.; Wulfhorst, G.; Nallinger, S: Heipp, G.: Tramlinie 23: Impulsgeber für nachhaltige Siedlungsentwicklung. In: Der Nahverkehr (4/2012)
 
 ### 2011
 
