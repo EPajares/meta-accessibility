@@ -11,7 +11,7 @@
     tag: public
   - title: Motorized Transport
     tag: motorized
-  - title: Inter-modal
+  - title: Intermodal Transport
     tag: inter
 
 - title: Spatial unit of analysis
@@ -67,13 +67,13 @@
   tools: 
   - title: Planners
     tag: planners
-  - title: Academia
-    tag: academia
+  - title: Academics
+    tag: academics
   - title: Political decision makers
     tag: decision-makers
   - title: Retail/Real-estate developers
     tag: developers
-  - title: Citizen 
-    tag: citizen
+  - title: Citizens 
+    tag: citizens
   - title: Other
     tag: other
