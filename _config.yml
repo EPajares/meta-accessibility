@@ -5,10 +5,10 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              
-description:        
+title:              META-Accessibility
+description:        On this platform diverse accessibility instruments are collected to foster networking and bridge the gap between research and practice. 
 lang:               en
-
+img:                uploads/website_main.png
 # Site subpath, e.g. /blog
 baseurl:           
 
@@ -16,7 +16,7 @@ baseurl:
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                ""
+url:                "https://www.accessibilityplanning.eu/"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
 logo:               

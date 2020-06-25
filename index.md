@@ -8,6 +8,7 @@ header:
   background:
   color: 
   hero_image: header.gif
+  hero_image_2: new_heading.png
   title: 
   subtitle: 
   cta: 
