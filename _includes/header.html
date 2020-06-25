@@ -19,6 +19,11 @@
             <img src="{{ site.uploads | absolute_url }}{{ page.header.hero_image }}" alt="{{ page.header.title }}">
           </div>
           {% endif %}
+          {% if page.header.hero_image_2 %}
+          <div class="uk-margin-top">
+            <img src="{{ site.uploads | absolute_url }}{{ page.header.hero_image_2 }}" alt="{{ page.header.title }}">
+          </div>
+          {% endif %}
         </div>
         <div class="uk-text-center">
           <div>
