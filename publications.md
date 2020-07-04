@@ -64,7 +64,7 @@ Büttner, B.; Zhao, J.; Thierstein, A.; Wulfhorst, G.; Förster, A.; Sterzer, L.
 
 Coppola P., Pensa S., Masala E., Tabasso M., Papa E. (2014d). Visualising Accessibility: an Interactive Tool and Two Applications to Empirical Case Studies of Urban Development and Public Engagement. Paper accepted and presented at the ETC European Transport Conference 29 September – 1 October 2014, Frankfurt, Germany.
 
-Hoemke M. (2014): Social spatial influences of new transport infrastructure – an accessibility instrument. Joint Conference COST TU1002 Final Conference / CITTA 7th Annual Conference, Oporto, 23rd – 24th October.
+Hoemke M. (2014). Social spatial influences of new transport infrastructure – an accessibility instrument. Joint Conference COST TU1002 Final Conference / CITTA 7th Annual Conference, Oporto, 23rd – 24th October.
 
 Kanninen, V., Kangasoja, J., Mäntysalo R. (2014). Trading between land use and transport planning. Re-conceptualizing PSSs as pidgin language for LUT integration. Joint Conference COST TU1002 Final Conference / CITTA 7th Annual Conference, Oporto, 23rd – 24th October.
 
