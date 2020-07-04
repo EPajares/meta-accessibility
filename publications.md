@@ -24,12 +24,12 @@ Silva, C., Pinto, N., Bertolini, L. (2019). Designing Accessibility Instruments:
 
 Büttner, B., Kinigadner, J., Ji, C., Wright, B., & Wulfhorst, G. (2018). The TUM Accessibility Atlas: Visualizing Spatial and Socioeconomic Disparities in Accessibility to Support Regional Land-Use and Transport Planning. Networks and Spatial Economics, 18(2), 385–414. [doi.org/10.1007/s11067-017-9378-6](https://doi.org/10.1007/s11067-017-9378-6)
 
-Merlin, L. A., Levine, J., & Grengs, J. (2018). Accessibility analysis for transportation projects and
-plans. Transport Policy, 69, 35–48. [https://doi.org/10.1016/j.tranpol.2018.05.014](https://doi.org/10.1016/j.tranpol.2018.05.014)
-
 Lättman, K., Olsson, L. E., & Friman, M. (2018). A new approach to accessibility- Examining perceived accessibility in contrast to objectively measured accessibility in daily travel. Research in Transportation Economics, 69, 501-511 
 
 Lättman, K. (2018). Perceived accessibility – Living a satisfactory life with help of the transport system. Doctoral Dissertation, Karlstad University Press 
+
+Merlin, L. A., Levine, J., & Grengs, J. (2018). Accessibility analysis for transportation projects and
+plans. Transport Policy, 69, 35–48. [https://doi.org/10.1016/j.tranpol.2018.05.014](https://doi.org/10.1016/j.tranpol.2018.05.014)
 
 ### 2017
 
