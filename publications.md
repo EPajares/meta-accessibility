@@ -7,10 +7,10 @@ Feel free to add your own references by submitting your instrument [survey](http
 
 ### 2020
 
+Lättman, K., Friman, M., & Olsson, L.E. (2020). Restricted car-use and perceived accessibility. Transportation Research part D: Transport and Environment, 78. [https://doi.org/10.1016/j.trd.2019.102213](https://doi.org/10.1016/j.trd.2019.102213) 
+
 Wenner, F. (2020, forthcoming): Brain Train? – Interrelations of Accessibility Changes through High-
 Speed Rail and Spatial Structure in the Knowledge Economy.
-
-Lättman, K., Friman, M., & Olsson, L.E. (2020). Restricted car-use and perceived accessibility. Transportation Research part D: Transport and Environment, 78. [https://doi.org/10.1016/j.trd.2019.102213](https://doi.org/10.1016/j.trd.2019.102213) 
 
 ### 2019
 
@@ -35,16 +35,14 @@ Lättman, K. (2018). Perceived accessibility – Living a satisfactory life with
 
 Büttner, B. (2017). Consequences of sharp increases in mobility costs on accessibility: Suggestions for individual and public development strategies. Chair of Urban Structure and Transport Planning. [https://mediatum.ub.tum.de/1324977](https://mediatum.ub.tum.de/1324977) 
 
+Levine, J., Merlin, L., & Grengs, J. (2017). Project-level accessibility analysis for land-use planning.
+Transport Policy, 53(October 2016), 107–119. [https://doi.org/10.1016/j.tranpol.2016.09.005](https://doi.org/10.1016/j.tranpol.2016.09.005)
+
 te Brömmelstroet, M., Skou Nicolaisen, M., Büttner, B., & Ferreira, A. (2017). Experiences with transportation models: An international survey of planning practices. Transport Policy, 58, 10–18. [https://doi.org/10.1016/j.tranpol.2017.04.007](https://doi.org/10.1016/j.tranpol.2017.04.007)
 
 Wulfhorst, G., Büttner, B., & Ji, C. (2017). The TUM Accessibility Atlas as a tool for supporting policies of sustainable mobility in metropolitan regions. Transportation Research Part A: Policy and Practice. [https://doi.org/10.1016/j.tra.2017.04.012](https://doi.org/10.1016/j.tra.2017.04.012)
 
-Levine, J., Merlin, L., & Grengs, J. (2017). Project-level accessibility analysis for land-use planning.
-Transport Policy, 53(October 2016), 107–119. [https://doi.org/10.1016/j.tranpol.2016.09.005](https://doi.org/10.1016/j.tranpol.2016.09.005)
-
 ### 2016
-
-Lättman, K., Olsson, L. E., & Friman, M. (2016). Development and test of the perceived accessibility scale (PAC) in public transport. Journal of Transport Geography, 54, 257-263. 
 
 Büttner, B., Wulfhorst, G. and Evans J.: Ensuring accessibility to daily activities for different population segments with respect to sharp increases in mobility costs. In Geurs, K., Patuelli, R. and Dentinho, T. (eds.), Accessibility, Equity and Efficiency. Challenges for Transport and Public Services. Edward Elgar.
 
@@ -53,6 +51,8 @@ Büttner, B.: Sharp increases in mobility costs: A trigger for sustainable mobil
 Büttner, B. and Wulfhorst, G.: The TUM Accessibility Atlas as a tool for fostering decision making processes on sustainable mobility in the metropolitan region of Munich. 14th WCTR 2016, Proceedings. Shanghai.
 
 Büttner, B.: Consequences of Sharp Increases in Mobility Costs on Accessibility: Suggestions for Local and Regional Development Strategies. NECTAR 2015 Conference, Proceedings, Ann Arbor
+
+Lättman, K., Olsson, L. E., & Friman, M. (2016). Development and test of the perceived accessibility scale (PAC) in public transport. Journal of Transport Geography, 54, 257-263. 
 
 ### 2014
 
