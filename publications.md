@@ -110,7 +110,11 @@ Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increa
 
 ### 2012
 
+Curtis, C., Scheurer, J., Mellor, R. (2012). Spatial Network Analysis for Multimodal Urban Transport Systems (SNAMUTS), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 49-55.
+
 Hull, A., Silva, C., Bertolini, L. (2012). Accessibility Instruments for Planning Practice in Europe. [Link](../uploads/pdf/Hull et al. - 2012 - Accessibility Instruments for Planning Practice.pdf)
+
+Gerlach, J. (2012). The German Guidelines for Integrated Network Design – – binding accessibility standards (RIN), in Angela Hull, Cecília Silva andLuca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 97-101.
 
 ### 2011
 
