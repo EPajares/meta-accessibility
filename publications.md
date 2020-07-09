@@ -7,6 +7,8 @@ Feel free to add your own references by submitting your instrument [survey](http
 
 ### 2020
 
+Ferreira, A. & Papa, E. (2020). Re-enacting the mobility versus accessibility debate: Moving towards collaborative synergies among experts. Case Studies on Transport Policy. Advanced online publication. doi:10.1016/j.cstp.2020.04.006
+
 Lättman, K., Friman, M., & Olsson, L.E. (2020). Restricted car-use and perceived accessibility. Transportation Research part D: Transport and Environment, 78. [https://doi.org/10.1016/j.trd.2019.102213](https://doi.org/10.1016/j.trd.2019.102213) 
 
 Wenner, F. (2020, forthcoming): Brain Train? – Interrelations of Accessibility Changes through High-
