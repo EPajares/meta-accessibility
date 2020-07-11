@@ -118,6 +118,8 @@ Gerlach, J. (2012). The German Guidelines for Integrated Network Design – – 
 
 Hull, A., Silva, C., Bertolini, L. (2012). Accessibility Instruments for Planning Practice in Europe. [Link](../uploads/pdf/Hull et al. - 2012 - Accessibility Instruments for Planning Practice.pdf)
 
+Verhetsel, A., Cant, J., Vanoutrive, T. (2012). Retail Cluster Accessibility (TRACE), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 57-62.
+
 ### 2011
 
 Büttner, B.; Keller, J.; Wulfhorst, G. (2011). Erreichbarkeitsatlas - Grundlagen für die Zukunft der Mobilität in der Metropolregion München. München.
