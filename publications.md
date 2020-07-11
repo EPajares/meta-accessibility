@@ -120,6 +120,8 @@ Gerlach, J. (2012). The German Guidelines for Integrated Network Design – – 
 
 Hull, A., Silva, C., Bertolini, L. (2012). Accessibility Instruments for Planning Practice in Europe. [Link](../uploads/pdf/Hull et al. - 2012 - Accessibility Instruments for Planning Practice.pdf)
 
+Iltanen, S. (2012). Heuristic three-level Instrument combining urban Morphology, Mobility, service Environments and Locational Information (HIMMELI), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 77-85.
+
 Nielsen, T. S., and Næss, P. (2012). Activity based indicators of connections and access needs (ABICA), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 71-75.
 
 Verhetsel, A., Cant, J., Vanoutrive, T. (2012). Retail Cluster Accessibility (TRACE), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 57-62.
