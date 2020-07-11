@@ -1,5 +1,5 @@
 ---
-title: ASAMeD - Space Syntax: Spatial Integration Accessibility and Angular Segment Analysis by Metric Distance 
+title: ASAMeD – Space Syntax – Spatial Integration Accessibility and Angular Segment Analysis by Metric Distance 
 image: tools/ASAMeD.png
 contact:
     name: Department of Architecture, University of Cyprus
