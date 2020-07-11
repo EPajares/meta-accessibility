@@ -1,6 +1,6 @@
 ---
 title: ASAMeD - Space Syntax: Spatial Integration Accessibility and Angular Segment Analysis by Metric Distance 
-image: tools/pac.png
+image: tools/ASAMeD.png
 contact:
     name: Department of Architecture, University of Cyprus
     address: P.O. Box 20537, 1678 Nicosia, Cyprus
