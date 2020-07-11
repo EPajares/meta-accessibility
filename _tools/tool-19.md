@@ -3,7 +3,7 @@ title: ABICA – Activity Based Indicators of Connections and Access Needs
 image: tools/ABICA.png 
 contact:
     name: Technical University of Denmark; Aalborg University 
-    address: Bygningstorvet 116 B, DK-2800 Kgs. Lyngby
+    address: Lyngby, Denmark
     email: thnie@transport.dtu.dk
     url: https://www.accessibilityplanning.eu/wp-content/uploads/2013/01/4-ABICA-R.pdf 
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
