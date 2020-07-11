@@ -6,8 +6,7 @@ contact:
     address: Antwerp, Belgium 
     email: jeroen.cant@ua.ac.be
     url: https://www.accessibilityplanning.eu/wp-content/uploads/2013/01/2-TRACE-R.pdf 
-# Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
-mode: [none]
+# Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file)
 scale: [street, district, municipal]
 terms: other
 type: [desktop]
