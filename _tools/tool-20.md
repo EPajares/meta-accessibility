@@ -3,7 +3,7 @@ title: ASAMeD – Space Syntax – Spatial Integration Accessibility and Angular
 image: tools/ASAMeD.png
 contact:
     name: Department of Architecture, University of Cyprus
-    address: P.O. Box 20537, 1678 Nicosia, Cyprus
+    address: Nicosia, Cyprus
     email: charalambous.nadia@ucy.ac.cy, magdamavridou@teemail.gr
     url: https://pdfs.semanticscholar.org/b847/b231c35288c80212383a2620202734cefc4a.pdf 
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
