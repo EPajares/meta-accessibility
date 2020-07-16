@@ -124,6 +124,8 @@ Iltanen, S. (2012). Heuristic three-level Instrument combining urban Morphology,
 
 Nielsen, T. S., and Næss, P. (2012). Activity based indicators of connections and access needs (ABICA), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 71-75.
 
+Papa, E., and Coppola, P. (2012). Gravity-Based Accessibility measures for Integrated Transport-land Use Planning (GraBAM), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 117-124.
+
 Pensa, S. (2012). Interactive Visualization Tool (InViTo), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 111-115.
 
 Trova, V. (2012). Measures of Street Connectivity: Spatialist_Lines (MoSC), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 103-109.
