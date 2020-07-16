@@ -163,3 +163,7 @@ Büttner, B.; Keller, J.; Wulfhorst, G. (2011). Erreichbarkeitsatlas - Grundlage
 
 te Brömmelstroet, M., Silva, C., Bertolini, L. (2010). What can we reach from where? Improving usability of accessibility as planning support across Europe. 57th Annual North American Meetings of the Regional Science Association International – NECTAR Session, Denver, Colorado.
 
+### 2008
+
+Pfaffenbichler, P. (2008). MARS-Metropolitan Activity Relocation Simulator. Verlag Dr. Mueller, Saarbruecken. 
+
