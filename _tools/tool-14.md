@@ -3,7 +3,7 @@ title: JAD – Joint-Accessibility Design
 image: tools/JAD.png
 contact:
     name: Universiteit van Amsterdam, Netherlands
-    address: Amsterdam, Netherlands 
+    address: 
     email: tstraatemeier@goudappel.nl 
     url: https://www.accessibilityplanning.eu/uploads/pdf/12-JAD-R.pdf 
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
