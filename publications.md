@@ -128,6 +128,8 @@ Papa, E., and Coppola, P. (2012). Gravity-Based Accessibility measures for Integ
 
 Pensa, S. (2012). Interactive Visualization Tool (InViTo), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 111-115.
 
+Silva, C. (2012). Structural Accessibility Layer (SAL), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 145-151.
+
 Straatemeier, T. (2012). Joint-accessibility Design (JAD), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 125-131.
 
  Tennøy, A. (2012). Method for Arriving at Maximum Recommendable Size of Shopping Centres (MaReSi SC), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 133-137.
