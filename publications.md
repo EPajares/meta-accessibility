@@ -124,6 +124,8 @@ Iltanen, S. (2012). Heuristic three-level Instrument combining urban Morphology,
 
 Nielsen, T. S., and Næss, P. (2012). Activity based indicators of connections and access needs (ABICA), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 71-75.
 
+Trova, V. (2012). Measures of Street Connectivity: Spatialist_Lines (MoSC), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 103-109.
+
 Verhetsel, A., Cant, J., Vanoutrive, T. (2012). Retail Cluster Accessibility (TRACE), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 57-62.
 
 ### 2011
