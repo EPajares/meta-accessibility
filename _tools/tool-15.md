@@ -3,7 +3,7 @@ title: GraBAM – Gravity Based Accessibility Measures for Integrated Transport-
 image: tools/GraBAM.png
 contact:
     name: Università Frederico II di Napoli, Italy 
-    address: Napoli, Italy
+    address: 
     email: enpapa@unina.it
     url: https://www.accessibilityplanning.eu/uploads/pdf/11-GraBAM-R.pdf 
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
