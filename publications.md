@@ -137,6 +137,8 @@ Pinto, N. N., Santos, B. F. (2012). Cellular Automata Modeling for Accessibility
 
 Silva, C. (2012). Structural Accessibility Layer (SAL), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 145-151.
 
+Ståhle, A. (2012). Place Syntax Tool (PST), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 173-178.
+
 Straatemeier, T. (2012). Joint-accessibility Design (JAD), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 125-131.
 
  Tennøy, A. (2012). Method for Arriving at Maximum Recommendable Size of Shopping Centres (MaReSi SC), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 133-137.
