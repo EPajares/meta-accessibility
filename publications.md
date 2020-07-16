@@ -128,6 +128,8 @@ Papa, E., and Coppola, P. (2012). Gravity-Based Accessibility measures for Integ
 
 Pensa, S. (2012). Interactive Visualization Tool (InViTo), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 111-115.
 
+Pinto, N. N., Santos, B. F. (2012). Cellular Automata Modeling for Accessibility Appraisal in Spatial Plans (UrbCA), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 153-158.
+
 Silva, C. (2012). Structural Accessibility Layer (SAL), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 145-151.
 
 Straatemeier, T. (2012). Joint-accessibility Design (JAD), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 125-131.
