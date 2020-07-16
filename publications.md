@@ -125,6 +125,8 @@ Hoemke, M. (2012). Social Spatial influences of New Transport infrastructure (So
 
 Hull, A., Silva, C., Bertolini, L. (2012). Accessibility Instruments for Planning Practice in Europe. [Link](../uploads/pdf/Hull et al. - 2012 - Accessibility Instruments for Planning Practice.pdf)
 
+Hull, A., Karou, S. (2012). Spatial Network Analysis of Public Transport Accessibility (SNAPTA), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 183-188.
+
 Iltanen, S. (2012). Heuristic three-level Instrument combining urban Morphology, Mobility, service Environments and Locational Information (HIMMELI), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 77-85.
 
 Kovač, M. Š., Pergar, P., & Sitar, M. (2012). From accessibility to the land development potential (ATI), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 159-165.
