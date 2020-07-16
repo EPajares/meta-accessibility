@@ -128,6 +128,8 @@ Papa, E., and Coppola, P. (2012). Gravity-Based Accessibility measures for Integ
 
 Pensa, S. (2012). Interactive Visualization Tool (InViTo), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 111-115.
 
+Straatemeier, T. (2012). Joint-accessibility Design (JAD), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 125-131.
+
 Trova, V. (2012). Measures of Street Connectivity: Spatialist_Lines (MoSC), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 103-109.
 
 Verhetsel, A., Cant, J., Vanoutrive, T. (2012). Retail Cluster Accessibility (TRACE), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 57-62.
