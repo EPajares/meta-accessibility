@@ -74,6 +74,8 @@ Kovač, M. S., Sitar, M., Pergar, P., Polajnar, M. (2014). Accessibility to tech
 
 L’Hostis, A. Liu, L. (2014). Contact potential measures for analysing future intercity links made possible by the planned Tours–Bordeaux High-Speed Rail Line. Joint Conference COST TU1002 Final Conference / CITTA 7th Annual Conference, Oporto, 23rd – 24th October.
 
+Larsson, A., Elldér, E. (2014). Accessibility Tool for Road and Public Transport Travel Time Analysis in Västra Götaland. COST Action TU 1002: Collecting accessibility instruments and improving their usability for planning practices.
+
 Larsson, A., Elldér, E. (2014). Providing the Bigger Picture: Implementation of Accessibility Instruments in Planning Practice in Region Västra Götaland. Joint Conference COST TU1002 Final Conference / CITTA 7th Annual Conference, Oporto, 23rd – 24th October.
 
 Larsson, A., te Brömmelstroet, M., Curtis, C., Milakis D. (2014). Understanding usability and usefulness for different types of planning contexts. Joint Conference COST TU1002 Final Conference / CITTA 7th Annual Conference, Oporto, 23rd – 24th October.
