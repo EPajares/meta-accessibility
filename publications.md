@@ -112,6 +112,9 @@ Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increa
 
 ### 2012
 
+Arce-Ruiz, R., Calderón, E., Condeço-Melhorado, A., Ortega, E. (2012). Isochrone Maps to Facilities. Shopping Centres in the Metrosur Influence Area (IMaFa), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office,
+pp. 167-172.
+
 Charalambous, N., Mavridou, M. (2012). Space Syntax: Spatial Integration Accessibility and Angular Segment Analysis by Metric Distance (ASAMeD), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 57-62.
 
 Curtis, C., Scheurer, J., Mellor, R. (2012). Spatial Network Analysis for Multimodal Urban Transport Systems (SNAMUTS), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 49-55.
