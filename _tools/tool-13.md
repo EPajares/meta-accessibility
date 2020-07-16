@@ -3,7 +3,7 @@ title: MaReSi SC – Method for Arriving at Maximus Recommendable Size of Shoppi
 image: 
 contact:
     name: Norwegian Institute of Transport Economics, Norway
-    address: Oslo, Norwegen
+    address: Oslo, Norway
     email: ate@toi.no
     url: https://www.accessibilityplanning.eu/uploads/pdf/13-MaReSi-SC-R.pdf 
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
