@@ -11,7 +11,7 @@ mode: [other]
 scale: [municipal]
 terms: closed 
 type: [desktop]
-target: [planners,academia,decision-makers]
+target: [planners,academia,decision-makers, developers, citizen]
 ---
 
-The PAC is a psychometric scale which evaluates the individuals´own perceptions of accessibility either for daily travel in general, or by a specific transport mode or combinations of modes. The PAC was developed by researchers at Karlstad University, Sweden, as a complement to objectively based accessibility tools and focus lies on capturing the individual dimension of accessibility. The PAC has been used in practice in a number of countries and may be helpful in identifying segments of individuals (or areas) with low accessibility, or to evaluate effects of different interventions from the perspective of the travelers. It comes in three versions, each consisting of 4 items (scale 1-7) which may be assessed separately or together as an index for an overall perceived accessibility score. 
+The proposed instrument defines the accessibility to technical infrastructure at the strategic level of spatial planning. Accessibility to technical infrastructure is in the first stage defined in terms of the physical accessibility to the technical infrastructure. Physical accessibility to technical infrastructure is measured as the accessibility to the provided land use at the local level, taking into account the capacity of the existing and planned technical infrastructure and the physical distance from the technical infrastructure. However, the final goal of the instrument is to define the cost accessibility to the technical infrastructure as well.
