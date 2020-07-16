@@ -9,7 +9,7 @@ contact:
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [motorized]
 scale: [other]
-terms: other
+terms: closed
 type: [desktop]
 target: [planners, developers]
 ---

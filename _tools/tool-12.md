@@ -9,7 +9,7 @@ contact:
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [public]
 scale: [municipal, other]
-terms: other
+terms: closed
 type: [desktop]
 target: [planners, developers]
 ---

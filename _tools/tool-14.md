@@ -9,7 +9,7 @@ contact:
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [cycling, motorized, public]
 scale: [municipal]
-terms: other
+terms: closed
 type: [other]
 target: [planners,decision-makers, citizen]
 ---
