@@ -10,7 +10,7 @@ contact:
 mode: [public]
 scale: [municipal]
 terms: open-access
-type: [dektop]
+type: [desktop]
 target: [planners]
 ---
 
