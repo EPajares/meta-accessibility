@@ -8,7 +8,7 @@ contact:
     url: https://www.accessibilityplanning.eu/uploads/pdf/12-JAD-R.pdf 
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [cycling, motorized, public]
-scale: [municipal]
+scale: [other]
 terms: closed
 type: [other]
 target: [planners,decision-makers, citizen]
