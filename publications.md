@@ -135,6 +135,8 @@ Iltanen, S. (2012). Heuristic three-level Instrument combining urban Morphology,
 
 Kovač, M. Š., Pergar, P., & Sitar, M. (2012). From accessibility to the land development potential (ATI), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 159-165.
 
+L'Hostis, A. (2012). Contactability, in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 85-90.
+
 Nielsen, T. S., and Næss, P. (2012). Activity based indicators of connections and access needs (ABICA), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 71-75.
 
 Papa, E., and Coppola, P. (2012). Gravity-Based Accessibility measures for Integrated Transport-land Use Planning (GraBAM), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 117-124.
