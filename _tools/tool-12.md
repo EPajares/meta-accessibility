@@ -14,4 +14,4 @@ type: [desktop]
 target: [planners, developers]
 ---
 
-The Geographic/Demographic Accessibility of Transport Infrastructure GDATI instrument assesses the public transport system in relation to its features (such as number of stops, length of routes), and to the area where it operates and the number of inhabitants that should be served by this system. The accessibility measure was assessed based on the previously recorded demographic and geographic indicators of settings and public transport operation factors.
+The Geographic/Demographic Accessibility of Transport Infrastructure GDATI instrument assesses the public transport system in relation to its features (such as number of stops, length of routes), and to the area where it operates and the number of inhabitants that should be served by this system. The accessibility measure is assessed based on the previously recorded demographic and geographic indicators of settings and public transport operation factors.
