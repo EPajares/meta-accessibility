@@ -1,5 +1,5 @@
 ---
-title: HIMMELI - Heuristic three-level Instrument combining Urban Morphology, Mobility, Service Environments and Locational Information
+title: HIMMELI
 image: tools/HIMMELI.png
 contact:
     name: Tampere University of Technology 
