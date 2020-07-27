@@ -7,6 +7,8 @@ Feel free to add your own references by submitting your instrument [survey](http
 
 ### 2020
 
+Ferreira, A. & Papa, E. (2020). Re-enacting the mobility versus accessibility debate: Moving towards collaborative synergies among experts. Case Studies on Transport Policy. Advanced online publication. doi:10.1016/j.cstp.2020.04.006
+
 Lättman, K., Friman, M., & Olsson, L.E. (2020). Restricted car-use and perceived accessibility. Transportation Research part D: Transport and Environment, 78. [https://doi.org/10.1016/j.trd.2019.102213](https://doi.org/10.1016/j.trd.2019.102213) 
 
 Wenner, F. (2020, forthcoming): Brain Train? – Interrelations of Accessibility Changes through High-
@@ -72,6 +74,8 @@ Kovač, M. S., Sitar, M., Pergar, P., Polajnar, M. (2014). Accessibility to tech
 
 L’Hostis, A. Liu, L. (2014). Contact potential measures for analysing future intercity links made possible by the planned Tours–Bordeaux High-Speed Rail Line. Joint Conference COST TU1002 Final Conference / CITTA 7th Annual Conference, Oporto, 23rd – 24th October.
 
+Larsson, A., Elldér, E. (2014). Accessibility Tool for Road and Public Transport Travel Time Analysis in Västra Götaland. COST Action TU 1002: Collecting accessibility instruments and improving their usability for planning practices.
+
 Larsson, A., Elldér, E. (2014). Providing the Bigger Picture: Implementation of Accessibility Instruments in Planning Practice in Region Västra Götaland. Joint Conference COST TU1002 Final Conference / CITTA 7th Annual Conference, Oporto, 23rd – 24th October.
 
 Larsson, A., te Brömmelstroet, M., Curtis, C., Milakis D. (2014). Understanding usability and usefulness for different types of planning contexts. Joint Conference COST TU1002 Final Conference / CITTA 7th Annual Conference, Oporto, 23rd – 24th October.
@@ -110,11 +114,48 @@ Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increa
 
 ### 2012
 
+Arce-Ruiz, R., Calderón, E., Condeço-Melhorado, A., Ortega, E. (2012). Isochrone Maps to Facilities. Shopping Centres in the Metrosur Influence Area (IMaFa), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office,
+pp. 167-172.
+
+Charalambous, N., Mavridou, M. (2012). Space Syntax: Spatial Integration Accessibility and Angular Segment Analysis by Metric Distance (ASAMeD), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 57-62.
+
 Curtis, C., Scheurer, J., Mellor, R. (2012). Spatial Network Analysis for Multimodal Urban Transport Systems (SNAMUTS), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 49-55.
+
+Gerlach, J. (2012). The German Guidelines for Integrated Network Design – – binding accessibility standards (RIN), in Angela Hull, Cecília Silva andLuca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 97-101.
+
+Halden, D. (2012). Database Suite for Calculation of UK Accessibility Statistics (ACCALC), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 189-194.
+
+Hoemke, M. (2012). Social Spatial influences of New Transport infrastructure (SoSINeTi), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 179-182.
 
 Hull, A., Silva, C., Bertolini, L. (2012). Accessibility Instruments for Planning Practice in Europe. [Link](../uploads/pdf/Hull et al. - 2012 - Accessibility Instruments for Planning Practice.pdf)
 
-Gerlach, J. (2012). The German Guidelines for Integrated Network Design – – binding accessibility standards (RIN), in Angela Hull, Cecília Silva andLuca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 97-101.
+Hull, A., Karou, S. (2012). Spatial Network Analysis of Public Transport Accessibility (SNAPTA), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 183-188.
+
+Iltanen, S. (2012). Heuristic three-level Instrument combining urban Morphology, Mobility, service Environments and Locational Information (HIMMELI), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 77-85.
+
+Kovač, M. Š., Pergar, P., & Sitar, M. (2012). From accessibility to the land development potential (ATI), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 159-165.
+
+Nielsen, T. S., and Næss, P. (2012). Activity based indicators of connections and access needs (ABICA), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 71-75.
+
+Papa, E., and Coppola, P. (2012). Gravity-Based Accessibility measures for Integrated Transport-land Use Planning (GraBAM), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 117-124.
+
+Pensa, S. (2012). Interactive Visualization Tool (InViTo), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 111-115.
+
+Pinto, N. N., Santos, B. F. (2012). Cellular Automata Modeling for Accessibility Appraisal in Spatial Plans (UrbCA), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 153-158.
+
+Silva, C. (2012). Structural Accessibility Layer (SAL), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 145-151.
+
+Ståhle, A. (2012). Place Syntax Tool (PST), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 173-178.
+
+Straatemeier, T. (2012). Joint-accessibility Design (JAD), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 125-131.
+
+ Tennøy, A. (2012). Method for Arriving at Maximum Recommendable Size of Shopping Centres (MaReSi SC), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 133-137.
+
+Trova, V. (2012). Measures of Street Connectivity: Spatialist_Lines (MoSC), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 103-109.
+
+Verhetsel, A., Cant, J., Vanoutrive, T. (2012). Retail Cluster Accessibility (TRACE), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 57-62.
+
+Zakowska, L., Starowicz, W., Pulawska, S. (2012). Geographic/ Demographic Accessibility of Transport Infrastructure (GDATI), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 139-143.
 
 ### 2011
 
@@ -123,4 +164,8 @@ Büttner, B.; Keller, J.; Wulfhorst, G. (2011). Erreichbarkeitsatlas - Grundlage
 ### 2010 
 
 te Brömmelstroet, M., Silva, C., Bertolini, L. (2010). What can we reach from where? Improving usability of accessibility as planning support across Europe. 57th Annual North American Meetings of the Regional Science Association International – NECTAR Session, Denver, Colorado.
+
+### 2008
+
+Pfaffenbichler, P. (2008). MARS-Metropolitan Activity Relocation Simulator. Verlag Dr. Mueller, Saarbruecken. 
 
