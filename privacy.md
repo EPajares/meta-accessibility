@@ -61,7 +61,7 @@ Tel.: +49 89 289 22447
 
 E-Mail: elias.pajares@tum.de
 
-Website: https://epajares.github.io/meta-accessibility/
+Website: https://accessibilityplanning.eu
 3. Cookies
 
 Die Internetseiten der Technische Universität München - verwenden Cookies. Cookies sind Textdateien, welche über einen Internetbrowser auf einem Computersystem abgelegt und gespeichert werden.
