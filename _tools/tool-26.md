@@ -1,6 +1,6 @@
 ---
 title: European Rail Accessibility Model 
-image: tools/european-rail-accessibility-model.png
+image: tools/europeanrailaccessibilitymodel.png
 contact:
     name: Technical University of Munich - Chair of Urban Development
     address: Munich, Germany
