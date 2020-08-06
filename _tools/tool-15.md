@@ -1,5 +1,5 @@
 ---
-title: GraBAM – Gravity Based Accessibility Measures for Integrated Transport-Land Use Planning 
+title: GraBAM 
 image: tools/GraBAM.png
 contact:
     name: Università Frederico II di Napoli, Italy 
