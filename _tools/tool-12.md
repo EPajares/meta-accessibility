@@ -5,7 +5,7 @@ contact:
     name: Cracow University of Technology 
     address: Cracow, Poland
     email: lzakowsk@pk.edu.pl
-    url: https://www.accessibilityplanning.eu/wp-content/uploads/2013/01/14-GDATI-R.pdf 
+    url: https://www.accessibilityplanning.eu//uploads/pdf/14-GDATI-R.pdf  
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [public]
 scale: [municipal, other]
