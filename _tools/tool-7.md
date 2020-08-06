@@ -10,7 +10,7 @@ contact:
 mode: [walking,cycling]
 scale: [municipal, district]
 terms: closed
-type: [extension]
+type: [desktop]
 target: [planners]
 ---
 
