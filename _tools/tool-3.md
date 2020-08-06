@@ -5,7 +5,7 @@ contact:
     name: Institute of Transportation - Center for Transport Planning and Traffic Engineering, University of Technology Vienna 
     address: Vienna, Austria
     email: Guenter.Emberger@tuwien.ac.at
-    url: https://www.accessibilityplanning.eu/wp-content/uploads/2013/10/MARS.pdf
+    url: https://www.accessibilityplanning.eu//uploads/pdf/MARS.pdf 
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [walking,cycling, motorized, public, inter, other]
 scale: [municipal, other]
