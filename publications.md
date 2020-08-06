@@ -114,8 +114,7 @@ Büttner, B.; Wulfhorst, G.; Crozet, Y.; Mercier, A.: The impact of sharp increa
 
 ### 2012
 
-Arce-Ruiz, R., Calderón, E., Condeço-Melhorado, A., Ortega, E. (2012). Isochrone Maps to Facilities. Shopping Centres in the Metrosur Influence Area (IMaFa), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office,
-pp. 167-172.
+Arce-Ruiz, R., Calderón, E., Condeço-Melhorado, A., Ortega, E. (2012). Isochrone Maps to Facilities. Shopping Centres in the Metrosur Influence Area (IMaFa), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 167-172.
 
 Charalambous, N., Mavridou, M. (2012). Space Syntax: Spatial Integration Accessibility and Angular Segment Analysis by Metric Distance (ASAMeD), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 57-62.
 
@@ -134,6 +133,8 @@ Hull, A., Karou, S. (2012). Spatial Network Analysis of Public Transport Accessi
 Iltanen, S. (2012). Heuristic three-level Instrument combining urban Morphology, Mobility, service Environments and Locational Information (HIMMELI), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 77-85.
 
 Kovač, M. Š., Pergar, P., & Sitar, M. (2012). From accessibility to the land development potential (ATI), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 159-165.
+
+L'Hostis, A. (2012). Contactability, in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 85-90.
 
 Nielsen, T. S., and Næss, P. (2012). Activity based indicators of connections and access needs (ABICA), in Angela Hull, Cecília Silva and Luca Bertolini (Eds.) Accessibility Instruments for Planning Practice. COST Office, pp. 71-75.
 
