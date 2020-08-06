@@ -7,7 +7,6 @@ contact:
     email: maruska.subic-kovac@fgg.uni-lj.si
     url: https://www.accessibilityplanning.eu/wp-content/uploads/2013/01/17-ATI-R.pdf 
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
-mode: [other]
 scale: [municipal]
 terms: closed 
 type: [desktop]

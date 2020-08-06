@@ -10,7 +10,7 @@ contact:
 mode: [motorized]
 scale: [municipal]
 terms: other
-type: [dektop]
+type: [desktop]
 target: [planners,academia]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Accessibility Tool for Road and Public Transport Travel Time Analysis in Västra Götaland 
-image: tools/Accessibility Tool for Road and Public Transport Travel Time Analysis in Västra Götaland.png
+image: tools/AccessibilityToolGötaland.png
 contact:
     name: University of Göteborg, Sweden 
     address: 

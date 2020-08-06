@@ -3,10 +3,10 @@ layout: default
 ---
 
 <section class="uk-section">
-    <div class="uk-container{% if page.width %} uk-container-{{page.width}}{% endif %}" data-uk-filter="target: .filter-tool">
+    <div class="uk-container{% if page.width %} uk-container-{{page.width}}{% endif %} uk-filter-container" data-uk-filter="target: .filter-tool">
         <div data-uk-grid>
             <div class="uk-width-1-5@m uk-flex-last@m">
-                <div class="uk-visible@m" uk-sticky="offset: 100; bottom: true">
+                <div class="uk-visible@m uk-sidebar-sticky" uk-sticky="offset: 100; bottom: true">
                     <ul class="uk-nav uk-nav-default">
                         <li class="uk-active" uk-filter-control><a href="#">{{ site.data.translation[site.lang].all_tools | default: "All Tools" }}</a></li>
                     </ul>
@@ -25,7 +25,7 @@ layout: default
                     {% endfor %}
                 </div>
             </div>
-            <div class="uk-width-expand@m uk-min-height">
+            <div class="uk-width-expand@m">
                 <div class="uk-hidden@m">
                     <ul class="uk-subnav uk-subnav-pill">
                         <li class="uk-active" uk-filter-control><a href="#">{{ site.data.translation[site.lang].all_tools | default: "All Tools" }}</a></li>
@@ -144,3 +144,9 @@ layout: default
     {{ content }}
 
 </section>
+
+<script>
+ UIkit.util.on('.uk-filter-container', 'afterFilter', () => {
+  UIkit.sticky(('.uk-sidebar-sticky'), {bottom: true})
+})    
+</script>

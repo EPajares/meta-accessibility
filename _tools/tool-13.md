@@ -1,6 +1,6 @@
 ---
 title: MaReSi SC – Method for Arriving at Maximus Recommendable Size of Shopping Centres
-image: 
+image: tools/CostActionLogo.png
 contact:
     name: Norwegian Institute of Transport Economics, Norway
     address: Oslo, Norway

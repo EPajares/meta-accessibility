@@ -1,6 +1,6 @@
 ---
 title: TRACE - Retail Cluster Accessibility
-image: 
+image: tools/CostActionLogo.png 
 contact: 
     name: Ann Verhetsel University
     address: Antwerp, Belgium 
