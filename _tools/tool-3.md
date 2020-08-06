@@ -10,7 +10,7 @@ contact:
 mode: [walking,cycling, motorized, public, inter, other]
 scale: [municipal, other]
 terms: closed
-type: [extension]
+type: [desktop]
 target: [planners,decision-makers]
 ---
 
