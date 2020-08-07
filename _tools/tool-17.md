@@ -5,7 +5,7 @@ contact:
     name: Department of Architecture, University of Thessaly
     address: Volos, Greece 
     email: Vatrova@uth.gr
-    url: https://www.accessibilityplanning.eu/wp-content/uploads/2013/01/9-MoSC-SS.pdf  
+    url: https://www.accessibilityplanning.eu//uploads/pdf/9-MoSC-R.pdf  
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [walking]
 scale: [street, district, municipal]

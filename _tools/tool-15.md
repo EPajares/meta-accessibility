@@ -10,7 +10,7 @@ contact:
 mode: [motorized, public]
 scale: [municipal]
 terms: closed
-type: [extension]
+type: [desktop]
 target: [planners]
 ---
 

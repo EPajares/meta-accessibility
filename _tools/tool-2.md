@@ -5,7 +5,7 @@ contact:
     name: University of Göteborg, Sweden 
     address: 
     email: anders.larsson@geography.gu.se
-    url: https://www.accessibilityplanning.eu/wp-content/uploads/2013/10/25-Accessibility-Atlas-Västra-Götaland.pdf 
+    url: https://www.accessibilityplanning.eu//uploads/pdf/Accessibility-Tool-for-Road-and-Public-Transport-Travel-Time-Analysis-in-Västra-Götaland.pdf 
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [motorized, public]
 scale: [other]
