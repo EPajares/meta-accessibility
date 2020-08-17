@@ -1,17 +1,16 @@
 ---
-title: TUM Accessibility Atlas
-image: tools/tum-accessibility-atlas.png
+title:  ATI - From Accessibility to the Land Development Potential
+image: tools/ATI.png
 contact:
-    name: Technical University of Munich - Chair of Urban Structure and Transport Planning
-    address: Munich, Germany
-    email: benjamin.buettner@tum.de
-    url: https://www.bgu.tum.de/en/sv/research-group-accessibility-planning/
+    name: University of Ljubljnq, Slovenia
+    address: 
+    email: maruska.subic-kovac@fgg.uni-lj.si
+    url: https://www.accessibilityplanning.eu//uploads/pdf/17-ATI-R.pdf
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
-mode: [walking,cycling,public,motorized,inter]
-scale: [street,district,municipal]
-terms: [closed]
+scale: [municipal]
+terms: closed 
 type: [desktop]
-target: [planners,academia,decision-makers,developers,citizen]
+target: [planners,academia,decision-makers, citizen]
 ---
 
-The TUM Accessibility Atlas is a multi-modal GIS-based instrument specifically developed for decision-making in the Munich Metropolitan Region. Hence, thematic datasets and measures (e.g. monetary costs, carbon emissions) were added to ensuring the ability to tackle the latest planning issues. The accessibility analysis ranges from regional (e.g. car and public transport) to local neighborhood scale taking into account active mobility (walking and cycling). The aim is to create a suitable instrument which can be used by a wide range of stakeholders (e.g. practitioners, decision-makers, citizens) raising awareness of the implications of their actions (e.g. land-use and transport interventions or individual mobility behavior).
+The proposed instrument defines the accessibility to technical infrastructure at the strategic level of spatial planning. Accessibility to technical infrastructure is in the first stage defined in terms of the physical accessibility to the technical infrastructure. Physical accessibility to technical infrastructure is measured as the accessibility to the provided land use at the local level, taking into account the capacity of the existing and planned technical infrastructure and the physical distance from the technical infrastructure. However, the final goal of the instrument is to define the cost accessibility to the technical infrastructure as well.

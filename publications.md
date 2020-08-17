@@ -7,7 +7,9 @@ Feel free to add your own references by submitting your instrument [survey](http
 
 ### 2020
 
-Ferreira, A. & Papa, E. (2020). Re-enacting the mobility versus accessibility debate: Moving towards collaborative synergies among experts. Case Studies on Transport Policy. Advanced online publication. doi:10.1016/j.cstp.2020.04.006
+Ferreira, A. & Papa, E. (2020). Re-enacting the mobility versus accessibility debate: Moving towards collaborative synergies among experts. Case Studies on Transport Policy. Advanced online publication. [https://doi.org/10.1016/j.cstp.2020.04.006](https://doi.org/10.1016/j.cstp.2020.04.006)
+
+Kinigadner, J., B. Büttner, G. Wulfhorst, and D. Vale. 2020. Planning for low carbon mobility: Impacts of transport interventions and location on carbon-based accessibility. Journal of Transport Geography 87. [https://doi.org/10.1016/j.jtrangeo.2020.102797](https://doi.org/10.1016/j.jtrangeo.2020.102797)
 
 Lättman, K., Friman, M., & Olsson, L.E. (2020). Restricted car-use and perceived accessibility. Transportation Research part D: Transport and Environment, 78. [https://doi.org/10.1016/j.trd.2019.102213](https://doi.org/10.1016/j.trd.2019.102213) 
 

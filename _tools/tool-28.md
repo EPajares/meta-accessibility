@@ -1,17 +1,17 @@
 ---
-title: GOAT
-image: tools/goat.png
+title: PST – Place Syntax Tool
+image: tools/PST.png
 contact:
-    name: Technical University of Munich - Chair of Urban Structure and Transport Planning
-    address: Munich, Germany
-    email: elias.pajares@tum.de
-    url: https://open-accessibility.org
+    name: KTH Royal Institute of Technology, Sweden 
+    address: Stockholm, Sweden 
+    email: alexander.stahle@spacescape.se
+    url: https://www.accessibilityplanning.eu/uploads/pdf/19-PST-R.pdf 
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
 mode: [walking,cycling]
-scale: [street,grid,district]
-terms: [open-access,open-source]
-type: web
-target: [planners,decision-makers,developers,public]
+scale: [municipal, district]
+terms: closed
+type: [desktop]
+target: [planners]
 ---
 
-GOAT stands for Geo Open Accessibility Tool. This web-instrument is meant to be open source, interactive, flexible and useful for accessibility planning. It is under development at the Chair for Urban Structure and Transport Planning at TUM. GOAT is designed to model active mobility (e.g. walking, cycling), enhancements and extensions are done on a regular basis. You can transfer GOAT to your area of study or test the demo version for different study areas (e.g. Munich).
+Place Syntax Tool (PST) is an application for the desktop software MapInfo. Place syntax introduces the possibility to  conduct descriptions and analyses of accessibility from a life-world point of view in just as systematic and quantitative a way. The ‘place syntax’ approach has great potential for the development of new tools for urban planning and design, not only for predicting pedestrian flow or estimating urban accessibilities, not least to redefine the concepts of densities and areas. The aim of the research is to help urban studies and practice to find new and possibly more informative ways or presenting place data in general.
