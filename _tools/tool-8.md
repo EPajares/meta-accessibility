@@ -1,17 +1,17 @@
 ---
-title: IMaFa - Isochrone Maps to Facilities 
-image: tools/IMaFa.png
+title: StationsRadar
+image: tools/stationsradar.png
 contact:
-    name: Politécnica de Madrid, Spain
-    address: 
-    email: rarceruiz@caminos.upm.es
-    url: https://www.accessibilityplanning.eu/uploads/pdf/18-IMaFa-R.pdf 
+    name: Ghent University 
+    address: Ghent, Belgium
+    email: freke.caset@ugent.be 
+    url:  https://stationsradar.ugent.be 
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
-mode: [walking,public]
-scale: [street, district, municipal]
-terms: closed
-type: [desktop]
-target: [planners,academia]
+mode: [walking,cycling,public,motorized]
+scale: [other]
+terms: open-access
+type: web
+target: [academia,planners]
 ---
 
-One of the main motivations of the IMaFa accessibility instrument is to assess the level of service of public transport when accessing shopping centres in the MetroSur influence area. However isochrone maps can be applied to other type of facilities (health care, education, etc.). The instrument of isochrone maps defines accessibility as the opportunities for ease of access and takes as a case study the access to shopping centres by public transit. The accessibility instrument is measured as the process associated with getting to and from the shopping centres by public transit. The main strengths of the present accessibility instrument are its low data requirements, and the ease of calculation, transmission and interpretation of results.
+StationsRadar is an open web-based planning support tool intended to support integrated land use and transport strategy-making, with a geographical focus on railway stations and their areas in the regions of Flanders and Brussels. The main feature of the tool is that it allows to visualize accessibility profiles for selections of stations that are made by the user. Besides these profiles, additional graphs, maps and information can be consulted. The tool was validated in the Flemish planning practice and aims to support policy and planning discussions dealing with the development potential of railway stations and their areas in Flanders and Brussels.
