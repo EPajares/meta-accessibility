@@ -5,13 +5,22 @@ title: Publications
 **The following is a collection of references which was submitted by the developers focusing on respective application of their instruments.
 Feel free to add your own references by submitting your instrument [survey](https://go.tum.de/380084) or contacting us via [E-Mail](mailto:benjamin.buettner@tum.de).**
 
+
+### 2021
+Kinigadner, J., Vale, D., Büttner, B., Wulfhorst, G., (2021). Shifting perspectives: A comparison of travel-time-based and carbon-based accessibility landscapes. Journal of Transport and Land Use 14, 345–365. [https://doi.org/10.5198/jtlu.2021.1741](https://doi.org/10.5198/jtlu.2021.1741)
+
+Pajares, E.; Büttner, B.; Jehle, U.; Nichols, A.; Wulfhorst, G. Accessibility by proximity: Addressing the lack of interactive
+accessibility instruments for active mobility. Journal of Transport Geography (2021), 93, 103080. [https://doi.org/10.1016/j.jtrangeo.2021.103080](https://doi.org/10.1016/j.jtrangeo.2021.103080)
+
 ### 2020
 
 Ferreira, A. & Papa, E. (2020). Re-enacting the mobility versus accessibility debate: Moving towards collaborative synergies among experts. Case Studies on Transport Policy. Advanced online publication. [https://doi.org/10.1016/j.cstp.2020.04.006](https://doi.org/10.1016/j.cstp.2020.04.006)
 
-Kinigadner, J., B. Büttner, G. Wulfhorst, and D. Vale. 2020. Planning for low carbon mobility: Impacts of transport interventions and location on carbon-based accessibility. Journal of Transport Geography 87. [https://doi.org/10.1016/j.jtrangeo.2020.102797](https://doi.org/10.1016/j.jtrangeo.2020.102797)
+Kinigadner, J., B. Büttner, G. Wulfhorst, and D. Vale. (2020). Planning for low carbon mobility: Impacts of transport interventions and location on carbon-based accessibility. Journal of Transport Geography 87. [https://doi.org/10.1016/j.jtrangeo.2020.102797](https://doi.org/10.1016/j.jtrangeo.2020.102797)
 
 Lättman, K., Friman, M., & Olsson, L.E. (2020). Restricted car-use and perceived accessibility. Transportation Research part D: Transport and Environment, 78. [https://doi.org/10.1016/j.trd.2019.102213](https://doi.org/10.1016/j.trd.2019.102213) 
+
+Levinson, D., King, D. (2020). Transport Access Manual: A Guide for Measuring Connection between People and Places. Committee of the Transport Access Manual, University of Sydney. [https://hdl.handle.net/2123/23733](https://hdl.handle.net/2123/23733)
 
 Wenner, F. (2020, forthcoming): Brain Train? – Interrelations of Accessibility Changes through High-
 Speed Rail and Spatial Structure in the Knowledge Economy.
