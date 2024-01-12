@@ -1,5 +1,5 @@
 ---
-title: r5r: CTwalk Map
+title: CTwalk Map
 image: tools/ctwalkmap.png
 contact:
     name: Vasileios Milias, Delf University of Technology

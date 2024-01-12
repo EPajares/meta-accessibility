@@ -1,5 +1,5 @@
 ---
-title: r5r: Rapid Realistic Routing with R5 in R
+title: r5r - Rapid Realistic Routing with R5 in R
 image: tools/r5r_blue.png
 contact:
     name: Institute for Applied Economic Research (Ipea)

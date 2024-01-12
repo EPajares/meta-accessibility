@@ -1,5 +1,5 @@
 ---
-title: r5r: "accessibility: Transport Accessibility Measures"
+title: "Accessibility Transport Accessibility Measures"
 image: tools/accessibility.png
 contact:
     name: Institute for Applied Economic Research (Ipea)
