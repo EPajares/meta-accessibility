@@ -2,8 +2,8 @@
 title: CTwalk Map
 image: tools/ctwalkmap.png
 contact:
-    name: Vasileios Milias, Delf University of Technology
-    address: Delf, Netherlands
+    name: Vasileios Milias, Delft University of Technology
+    address: Delft, Netherlands
     email: milias.vasilis@gmail.com
     url: https://miliasv.github.io/CTwalkMap/info_page/
 # Catgorisation tags (for reference of all available tags see _data/navigation_tools.yml file):
